@@ -1,0 +1,4 @@
+cust_type_id,customer_type
+CUST_01,Enterprise
+CUST_02,Government
+CUST_03,SME

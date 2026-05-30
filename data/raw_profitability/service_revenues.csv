@@ -1,0 +1,1501 @@
+invoice_id,invoice_date,service_line,region,customer_type,revenue_amount,days_outstanding
+INV_0001,2025-10-16,Audit & Assurance,EMEA,Government,12174.66,94
+INV_0002,2025-07-12,FINANCIAL ADVISORY,EMEA,Enterprise,40374.87,3
+INV_0003,2025-07-28,Financial Advisory,APAC,Enterprise,58116.52,20
+INV_0004,15/12/2025,Consulting,APAC,Enterprise,11492.21,12
+INV_0005,02/01/2025,FINANCIAL ADVISORY,LATAM,Government,13737.83,48
+INV_0006,"Mar 21, 2024",Consulting,APAC,Government,18460.2,8
+INV_0007,"Feb 16, 2024",Tax Advisory,EMEA,Enterprise,31608.84,58
+INV_0008,12/10/2025,Tax Advisory,APAC,Government,70565.82,82
+INV_0009,"Mar 14, 2024",Tax Advisory,LATAM,SME,23896.35,81
+INV_0010,"Dec 05, 2025",Tax Advisory,North America,Enterprise,62526.18,103
+INV_0011,19/11/2024,consulting,APAC,Enterprise,50880.71,50
+INV_0012,20/10/2025,Tax Advisory,APAC,Government,45921.02,114
+INV_0013,20/08/2025,Consulting,LATAM,Enterprise,57904.75,110
+INV_0014,2024-04-22,Tax Advisory,North America,SME,31713.35,59
+INV_0015,25/06/2025,FINANCIAL ADVISORY,North America,Government,66935.19,96
+INV_0016,"Sep 30, 2024",consulting,LATAM,Enterprise,36760.66,92
+INV_0017,"Sep 26, 2024",TAX ADVISORY,APAC,Government,40536.4,25
+INV_0018,05/06/2024,Tax Advisory,North America,Government,27690.92,2
+INV_0019,24/04/2024,Consulting,North America,Enterprise,56233.53,104
+INV_0020,"Mar 11, 2024",tax advisory,LATAM,Government,16558.89,67
+INV_0021,13/09/2025,Tax Advisory,EMEA,Government,26820.14,85
+INV_0022,27/10/2025,Risk Advisory,EMEA,Enterprise,9481.81,2
+INV_0023,"Aug 25, 2025",TAX ADVISORY,North America,Enterprise,9718.02,4
+INV_0024,2024-12-04,Financial Advisory,EMEA,Government,14261.83,112
+INV_0025,"Aug 07, 2025",Risk Advisory,LATAM,Enterprise,11602.81,84
+INV_0026,17/03/2025,Risk Advisory,North America,Government,50741.88,82
+INV_0027,2024-04-10,Risk Advisory,North America,Enterprise,18411.31,68
+INV_0028,2025-04-04,risk advisory,LATAM,Enterprise,66214.02,9
+INV_0029,"Mar 29, 2025",audit & assurance,North America,Enterprise,69845.69,108
+INV_0030,2024-08-30,Risk Advisory,LATAM,Enterprise,16524.6,0
+INV_0031,03/02/2025,Risk Advisory,LATAM,Enterprise,18292.85,27
+INV_0032,"Feb 29, 2024",financial advisory,APAC,Enterprise,8509.96,61
+INV_0033,"May 29, 2025",tax advisory,North America,Enterprise,9796.49,8
+INV_0034,2025-11-22,risk advisory,EMEA,Government,46616.34,79
+INV_0035,24/03/2024,Financial Advisory,APAC,Enterprise,51880.82,40
+INV_0036,01/09/2024,risk advisory,APAC,SME,27132.4,96
+INV_0037,2024-03-15,Risk Advisory,North America,Enterprise,42634.41,64
+INV_0038,2024-09-28,Consulting,APAC,SME,16042.28,106
+INV_0039,"Jul 10, 2025",Consulting,North America,Government,62197.29,38
+INV_0040,2025-11-10,Tax Advisory,EMEA,SME,24722.94,26
+INV_0041,2024-12-17,Consulting,North America,Enterprise,49399.91,106
+INV_0042,2024-10-10,AUDIT & ASSURANCE,APAC,Enterprise,56886.16,70
+INV_0043,23/12/2025,financial advisory,North America,Government,68275.0,69
+INV_0044,06/02/2024,Financial Advisory,North America,SME,30525.61,101
+INV_0045,10/02/2024,Tax Advisory,APAC,Government,66889.43,52
+INV_0046,"Sep 27, 2025",Tax Advisory,EMEA,Enterprise,66699.13,3
+INV_0047,"Jul 02, 2024",Consulting,EMEA,SME,16143.85,89
+INV_0048,20/04/2024,Audit & Assurance,LATAM,SME,26363.36,101
+INV_0049,2024-08-21,Audit & Assurance,APAC,Enterprise,72682.24,35
+INV_0050,"Dec 25, 2024",Financial Advisory,APAC,Enterprise,13073.92,33
+INV_0051,"Jul 01, 2024",consulting,LATAM,SME,55998.15,40
+INV_0052,"Mar 22, 2025",financial advisory,EMEA,SME,8107.06,55
+INV_0053,"Jan 02, 2024",Financial Advisory,EMEA,SME,35190.82,85
+INV_0054,"Dec 04, 2024",CONSULTING,APAC,Government,26649.93,52
+INV_0055,30/11/2024,CONSULTING,LATAM,Government,57369.42,22
+INV_0056,"Sep 22, 2025",Consulting,APAC,SME,19712.79,100
+INV_0057,"Aug 16, 2025",Consulting,EMEA,Government,38123.03,115
+INV_0058,"Jun 22, 2024",Audit & Assurance,APAC,Enterprise,62289.64,96
+INV_0059,"Aug 28, 2024",CONSULTING,North America,Enterprise,22138.98,60
+INV_0060,2025-09-17,Risk Advisory,EMEA,Government,53744.8,63
+INV_0061,2025-02-13,TAX ADVISORY,North America,SME,20318.88,102
+INV_0062,"Dec 13, 2025",risk advisory,EMEA,Enterprise,36952.33,102
+INV_0063,"Apr 20, 2025",Financial Advisory,LATAM,Government,62050.46,114
+INV_0064,31/05/2025,FINANCIAL ADVISORY,LATAM,SME,23143.41,31
+INV_0065,14/10/2025,Financial Advisory,LATAM,Enterprise,54948.14,30
+INV_0066,05/10/2024,CONSULTING,EMEA,Enterprise,31812.47,19
+INV_0067,2025-12-24,Audit & Assurance,LATAM,SME,9358.6,106
+INV_0068,06/03/2025,FINANCIAL ADVISORY,LATAM,SME,5412.73,45
+INV_0069,01/11/2024,Risk Advisory,EMEA,SME,20359.51,55
+INV_0070,2025-05-12,Risk Advisory,LATAM,Government,16553.13,59
+INV_0071,"May 10, 2024",financial advisory,LATAM,Government,44507.44,3
+INV_0072,"Mar 26, 2024",risk advisory,LATAM,Enterprise,8519.92,48
+INV_0073,2024-12-01,Risk Advisory,LATAM,SME,57640.69,106
+INV_0074,07/03/2025,Audit & Assurance,North America,SME,20695.55,8
+INV_0075,2025-10-29,AUDIT & ASSURANCE,North America,Government,15666.76,16
+INV_0076,"Apr 29, 2025",Audit & Assurance,APAC,SME,16745.24,77
+INV_0077,2024-04-27,consulting,North America,SME,45305.77,48
+INV_0078,"Feb 10, 2025",tax advisory,EMEA,Enterprise,53803.51,38
+INV_0079,"Dec 01, 2025",Audit & Assurance,North America,SME,42292.17,84
+INV_0080,2025-01-14,FINANCIAL ADVISORY,LATAM,SME,12387.72,46
+INV_0081,12/10/2025,Tax Advisory,APAC,Government,61573.95,68
+INV_0082,10/05/2025,Risk Advisory,APAC,Enterprise,63151.17,11
+INV_0083,12/10/2024,Tax Advisory,LATAM,SME,7009.0,108
+INV_0084,2024-11-28,Risk Advisory,APAC,SME,66622.4,89
+INV_0085,"Oct 09, 2024",AUDIT & ASSURANCE,EMEA,Government,33449.97,71
+INV_0086,"Sep 03, 2024",Risk Advisory,North America,Enterprise,25596.49,51
+INV_0087,2025-12-09,Consulting,APAC,SME,74764.2,70
+INV_0088,04/12/2024,Risk Advisory,North America,Government,18480.9,15
+INV_0089,"Jul 02, 2025",tax advisory,LATAM,SME,55720.95,97
+INV_0090,"Jun 21, 2025",Consulting,APAC,Enterprise,30261.67,38
+INV_0091,"Jan 15, 2024",financial advisory,North America,Enterprise,43735.13,89
+INV_0092,"May 09, 2024",risk advisory,North America,Government,24903.75,61
+INV_0093,27/03/2025,Tax Advisory,LATAM,Enterprise,62548.1,51
+INV_0094,2025-05-18,FINANCIAL ADVISORY,EMEA,Government,71438.79,10
+INV_0095,2024-09-11,Financial Advisory,EMEA,Government,31626.46,56
+INV_0096,"Oct 31, 2024",Risk Advisory,North America,Enterprise,48786.05,33
+INV_0097,2025-11-07,Tax Advisory,EMEA,Enterprise,33596.23,88
+INV_0098,31/08/2025,consulting,APAC,Government,24790.29,110
+INV_0099,2025-04-09,Tax Advisory,EMEA,SME,13034.34,28
+INV_0100,2025-10-25,CONSULTING,EMEA,SME,46653.08,105
+INV_0101,05/08/2025,risk advisory,APAC,Government,33175.6,34
+INV_0102,"May 27, 2025",Risk Advisory,LATAM,Government,27562.51,32
+INV_0103,2024-01-27,Tax Advisory,North America,Government,62499.49,73
+INV_0104,2024-02-11,Risk Advisory,APAC,Enterprise,74786.18,55
+INV_0105,12/10/2025,Audit & Assurance,APAC,Government,12321.99,20
+INV_0106,03/12/2024,Risk Advisory,North America,SME,11164.19,32
+INV_0107,2024-11-27,Risk Advisory,North America,Government,65855.72,59
+INV_0108,2025-02-27,Tax Advisory,LATAM,Government,35942.87,6
+INV_0109,27/07/2024,financial advisory,APAC,SME,66659.26,62
+INV_0110,2024-05-04,Financial Advisory,APAC,Government,5957.21,52
+INV_0111,2024-04-05,AUDIT & ASSURANCE,EMEA,SME,70285.71,37
+INV_0112,"Jun 05, 2025",Consulting,LATAM,Enterprise,36975.05,18
+INV_0113,2025-01-27,Financial Advisory,North America,SME,59087.26,109
+INV_0114,28/02/2025,FINANCIAL ADVISORY,APAC,Government,45594.64,84
+INV_0115,2025-05-16,Risk Advisory,LATAM,SME,70299.66,111
+INV_0116,"Jul 12, 2024",Tax Advisory,LATAM,Enterprise,27272.34,60
+INV_0117,23/12/2025,Risk Advisory,EMEA,SME,72537.71,16
+INV_0118,"May 29, 2025",Consulting,LATAM,Enterprise,41816.58,58
+INV_0119,"Jan 16, 2024",Tax Advisory,EMEA,Enterprise,37864.34,33
+INV_0120,"Dec 12, 2024",Risk Advisory,LATAM,SME,48875.94,113
+INV_0121,"May 14, 2025",Audit & Assurance,APAC,Enterprise,57273.65,55
+INV_0122,"Apr 10, 2024",Audit & Assurance,North America,Enterprise,27706.23,7
+INV_0123,27/10/2024,Consulting,LATAM,Government,52726.03,23
+INV_0124,2024-06-23,Audit & Assurance,EMEA,SME,68898.03,18
+INV_0125,25/08/2024,Consulting,LATAM,SME,52432.76,20
+INV_0126,16/03/2024,Consulting,LATAM,Government,22506.88,108
+INV_0127,2024-11-05,RISK ADVISORY,LATAM,Government,30127.14,37
+INV_0128,17/12/2025,Audit & Assurance,APAC,Enterprise,44615.03,87
+INV_0129,"Feb 20, 2024",Risk Advisory,EMEA,Government,61135.24,28
+INV_0130,2025-10-13,Financial Advisory,EMEA,Government,11801.48,80
+INV_0131,2025-10-23,CONSULTING,APAC,Government,14198.83,37
+INV_0132,"Nov 30, 2024",risk advisory,EMEA,Government,66352.24,46
+INV_0133,"Jun 27, 2025",Consulting,LATAM,SME,57259.15,43
+INV_0134,27/04/2024,audit & assurance,EMEA,Government,55695.17,50
+INV_0135,24/07/2025,AUDIT & ASSURANCE,North America,SME,30801.0,95
+INV_0136,19/11/2025,Financial Advisory,APAC,Enterprise,52238.56,60
+INV_0137,"Jan 26, 2024",Financial Advisory,North America,Government,62669.87,89
+INV_0138,"Nov 05, 2024",risk advisory,North America,Enterprise,26305.52,63
+INV_0139,2024-04-28,TAX ADVISORY,LATAM,SME,51934.04,95
+INV_0140,"Dec 14, 2025",Risk Advisory,LATAM,Government,11931.51,62
+INV_0141,22/09/2025,consulting,APAC,Enterprise,36036.82,30
+INV_0142,2025-01-06,Consulting,APAC,Enterprise,32869.77,24
+INV_0143,05/05/2024,Audit & Assurance,North America,Enterprise,60075.62,31
+INV_0144,"May 08, 2024",tax advisory,EMEA,Government,20116.59,111
+INV_0145,26/08/2024,Tax Advisory,APAC,Enterprise,74126.91,69
+INV_0146,2024-09-13,AUDIT & ASSURANCE,North America,SME,60298.93,30
+INV_0147,25/08/2025,audit & assurance,North America,Enterprise,56920.26,67
+INV_0148,"Apr 26, 2024",Audit & Assurance,North America,SME,40268.71,78
+INV_0149,"Feb 14, 2024",Financial Advisory,North America,Enterprise,74901.07,108
+INV_0150,15/02/2025,Audit & Assurance,North America,Enterprise,27547.83,18
+INV_0151,2024-03-08,Consulting,APAC,SME,74623.94,67
+INV_0152,28/10/2024,FINANCIAL ADVISORY,North America,Government,50564.17,98
+INV_0153,"Jul 18, 2025",Tax Advisory,LATAM,SME,62919.35,51
+INV_0154,"Mar 01, 2025",Audit & Assurance,APAC,SME,71751.48,87
+INV_0155,2025-04-30,AUDIT & ASSURANCE,North America,Government,56715.72,103
+INV_0156,"May 13, 2024",Audit & Assurance,APAC,Government,13556.19,45
+INV_0157,12/11/2025,Audit & Assurance,APAC,Enterprise,45454.3,27
+INV_0158,"Jun 07, 2024",RISK ADVISORY,APAC,Enterprise,58382.39,73
+INV_0159,19/08/2024,Financial Advisory,North America,Government,70035.9,106
+INV_0160,11/12/2025,audit & assurance,APAC,SME,29571.64,23
+INV_0161,"May 26, 2024",risk advisory,North America,Enterprise,57227.82,27
+INV_0162,20/01/2025,Risk Advisory,APAC,Government,46735.66,113
+INV_0163,2024-02-23,TAX ADVISORY,North America,SME,36017.91,54
+INV_0164,"May 12, 2025",Risk Advisory,North America,SME,35093.95,36
+INV_0165,"Nov 25, 2025",Financial Advisory,North America,Enterprise,32668.44,76
+INV_0166,2024-02-26,Tax Advisory,EMEA,SME,25261.3,15
+INV_0167,08/01/2024,risk advisory,LATAM,Government,54256.99,64
+INV_0168,"Jul 26, 2025",consulting,North America,SME,6311.91,9
+INV_0169,"Nov 16, 2024",Risk Advisory,LATAM,SME,13062.14,2
+INV_0170,2024-11-28,Financial Advisory,APAC,Enterprise,35569.82,13
+INV_0171,06/09/2024,FINANCIAL ADVISORY,APAC,Government,28765.93,42
+INV_0172,2024-06-21,Financial Advisory,EMEA,SME,29576.98,104
+INV_0173,2025-10-22,tax advisory,APAC,Enterprise,17144.93,19
+INV_0174,2025-11-02,Tax Advisory,LATAM,Government,58191.4,57
+INV_0175,"Nov 28, 2025",Financial Advisory,APAC,Enterprise,35783.4,60
+INV_0176,"Mar 28, 2025",Consulting,APAC,Government,10193.35,59
+INV_0177,2025-04-07,Audit & Assurance,North America,Government,46585.59,49
+INV_0178,"Apr 18, 2025",Financial Advisory,North America,SME,68633.5,73
+INV_0179,2025-10-29,Consulting,North America,SME,12245.13,115
+INV_0180,"Dec 17, 2024",AUDIT & ASSURANCE,EMEA,Government,35643.08,56
+INV_0181,"Jun 20, 2025",financial advisory,APAC,SME,32119.16,99
+INV_0182,"Dec 12, 2024",financial advisory,APAC,Enterprise,28078.35,71
+INV_0183,25/11/2025,Consulting,EMEA,SME,10705.14,84
+INV_0184,24/05/2024,Consulting,LATAM,Enterprise,46652.89,10
+INV_0185,"Nov 13, 2024",Risk Advisory,EMEA,Government,54198.16,94
+INV_0186,"Dec 02, 2025",Audit & Assurance,APAC,Enterprise,30381.84,23
+INV_0187,07/08/2024,risk advisory,EMEA,Enterprise,10401.56,108
+INV_0188,"Apr 13, 2024",Financial Advisory,North America,Government,28573.51,98
+INV_0189,2025-09-24,FINANCIAL ADVISORY,EMEA,Government,35637.14,52
+INV_0190,"Jan 08, 2025",Tax Advisory,LATAM,Enterprise,42380.78,39
+INV_0191,2025-04-25,Consulting,LATAM,SME,58860.7,99
+INV_0192,"Jan 26, 2025",FINANCIAL ADVISORY,EMEA,Government,14687.9,32
+INV_0193,"Feb 23, 2024",Risk Advisory,North America,Government,64212.46,108
+INV_0194,07/05/2024,Audit & Assurance,EMEA,SME,11419.95,28
+INV_0195,06/04/2025,Audit & Assurance,APAC,Enterprise,32031.63,10
+INV_0196,2025-01-18,AUDIT & ASSURANCE,APAC,Enterprise,14631.97,36
+INV_0197,"Apr 28, 2025",Tax Advisory,North America,Enterprise,6330.27,27
+INV_0198,"Jun 02, 2024",FINANCIAL ADVISORY,APAC,Enterprise,26080.58,6
+INV_0199,01/09/2024,FINANCIAL ADVISORY,LATAM,Government,42523.76,80
+INV_0200,"Jun 11, 2025",Tax Advisory,North America,Government,29697.12,73
+INV_0201,2025-03-02,Audit & Assurance,North America,SME,66133.2,5
+INV_0202,12/10/2025,CONSULTING,North America,SME,21878.81,84
+INV_0203,2025-10-05,Financial Advisory,North America,SME,43220.96,104
+INV_0204,2025-10-20,Risk Advisory,EMEA,Enterprise,9417.04,99
+INV_0205,2025-04-13,Consulting,North America,SME,70335.97,65
+INV_0206,"Feb 11, 2025",Risk Advisory,EMEA,SME,29988.19,99
+INV_0207,"Feb 18, 2024",Consulting,LATAM,SME,57031.54,114
+INV_0208,30/01/2025,Tax Advisory,APAC,Enterprise,55895.69,10
+INV_0209,"Mar 16, 2025",Tax Advisory,North America,SME,51264.35,39
+INV_0210,"Apr 01, 2025",risk advisory,LATAM,SME,36299.08,93
+INV_0211,"Dec 27, 2024",Risk Advisory,North America,Enterprise,51982.87,51
+INV_0212,"Jan 07, 2025",TAX ADVISORY,LATAM,Enterprise,13836.1,30
+INV_0213,22/10/2025,Consulting,EMEA,Government,36494.58,47
+INV_0214,15/01/2025,Audit & Assurance,LATAM,SME,50469.25,31
+INV_0215,2024-04-26,Tax Advisory,North America,SME,59247.51,90
+INV_0216,2025-04-01,Financial Advisory,LATAM,Enterprise,13584.62,109
+INV_0217,16/03/2024,Tax Advisory,North America,Government,72729.29,40
+INV_0218,14/11/2025,Audit & Assurance,APAC,Enterprise,54826.64,89
+INV_0219,2025-10-15,CONSULTING,EMEA,Enterprise,21571.53,63
+INV_0220,27/01/2024,Financial Advisory,EMEA,Government,66897.25,8
+INV_0221,12/11/2024,Risk Advisory,North America,Enterprise,73066.58,82
+INV_0222,16/03/2024,Risk Advisory,EMEA,Enterprise,35283.28,111
+INV_0223,2024-02-26,financial advisory,EMEA,Enterprise,27586.25,90
+INV_0224,18/08/2024,Financial Advisory,APAC,Enterprise,49454.0,70
+INV_0225,2024-10-08,CONSULTING,EMEA,Government,70912.49,19
+INV_0226,"Jun 24, 2024",Financial Advisory,North America,Enterprise,10685.6,82
+INV_0227,13/08/2025,Tax Advisory,North America,SME,67229.78,69
+INV_0228,"Oct 23, 2024",Consulting,LATAM,SME,36748.09,88
+INV_0229,2024-03-02,Risk Advisory,APAC,Government,15056.81,110
+INV_0230,"Nov 22, 2024",CONSULTING,APAC,Government,44315.59,40
+INV_0231,04/09/2024,Audit & Assurance,North America,Enterprise,25314.84,49
+INV_0232,22/09/2025,Tax Advisory,APAC,Government,55478.99,24
+INV_0233,12/06/2024,Financial Advisory,LATAM,Enterprise,11303.44,50
+INV_0234,01/06/2025,Tax Advisory,North America,SME,39642.59,112
+INV_0235,"Oct 31, 2025",RISK ADVISORY,North America,SME,14375.45,33
+INV_0236,09/01/2025,consulting,North America,Government,44327.18,46
+INV_0237,20/07/2025,Audit & Assurance,APAC,Government,52627.9,15
+INV_0238,2024-05-11,Risk Advisory,APAC,Enterprise,18934.05,65
+INV_0239,"Feb 15, 2025",audit & assurance,EMEA,Government,28312.85,60
+INV_0240,15/06/2025,Tax Advisory,APAC,Government,27297.1,50
+INV_0241,"Sep 23, 2025",Consulting,LATAM,Government,44404.7,60
+INV_0242,18/01/2024,Consulting,APAC,Government,66046.94,80
+INV_0243,"Jan 28, 2024",Risk Advisory,EMEA,Government,8594.86,61
+INV_0244,"Jun 23, 2024",Financial Advisory,EMEA,Enterprise,45079.92,89
+INV_0245,2024-04-22,Audit & Assurance,LATAM,Government,19272.42,64
+INV_0246,18/09/2025,Audit & Assurance,APAC,Government,38485.97,48
+INV_0247,2024-11-17,Risk Advisory,APAC,Government,59039.28,92
+INV_0248,"Nov 28, 2025",CONSULTING,EMEA,SME,44066.07,28
+INV_0249,31/10/2024,Tax Advisory,LATAM,SME,44234.13,101
+INV_0250,07/10/2024,Audit & Assurance,LATAM,SME,71822.62,102
+INV_0251,29/05/2024,Audit & Assurance,APAC,SME,50918.04,95
+INV_0252,2025-05-05,Tax Advisory,APAC,Enterprise,12645.86,94
+INV_0253,2025-08-23,tax advisory,EMEA,Government,21298.56,12
+INV_0254,27/02/2025,risk advisory,EMEA,Enterprise,72516.31,20
+INV_0255,"Feb 20, 2025",RISK ADVISORY,APAC,SME,24979.07,7
+INV_0256,"Apr 01, 2024",Financial Advisory,North America,Enterprise,34251.95,107
+INV_0257,2024-06-29,RISK ADVISORY,APAC,Enterprise,5648.7,72
+INV_0258,2025-09-09,Consulting,LATAM,Enterprise,64574.18,59
+INV_0259,2024-10-06,Audit & Assurance,APAC,Government,18033.93,94
+INV_0260,11/12/2024,FINANCIAL ADVISORY,LATAM,SME,41069.65,11
+INV_0261,"Feb 14, 2025",audit & assurance,EMEA,SME,27652.12,31
+INV_0262,07/01/2024,Risk Advisory,APAC,SME,45772.25,73
+INV_0263,12/01/2024,CONSULTING,North America,SME,26476.44,51
+INV_0264,"Dec 03, 2025",Consulting,APAC,SME,48023.78,28
+INV_0265,16/05/2024,Tax Advisory,APAC,SME,54135.85,60
+INV_0266,"Jul 04, 2025",Tax Advisory,North America,Government,36272.36,90
+INV_0267,2025-01-05,financial advisory,EMEA,Government,42566.21,21
+INV_0268,"Dec 01, 2024",risk advisory,EMEA,Government,45820.34,11
+INV_0269,06/06/2025,Audit & Assurance,LATAM,Government,9041.57,59
+INV_0270,19/11/2025,Audit & Assurance,EMEA,Government,10112.07,54
+INV_0271,"Dec 18, 2024",AUDIT & ASSURANCE,North America,SME,7221.44,52
+INV_0272,2024-07-03,Risk Advisory,LATAM,SME,31295.19,87
+INV_0273,"Nov 08, 2025",Tax Advisory,EMEA,Government,32514.1,16
+INV_0274,2024-08-16,Audit & Assurance,LATAM,Government,31549.35,29
+INV_0275,10/09/2024,consulting,EMEA,Government,58584.3,4
+INV_0276,07/11/2025,Financial Advisory,North America,Enterprise,19425.71,12
+INV_0277,2025-08-31,Risk Advisory,North America,Enterprise,56837.88,51
+INV_0278,2025-03-25,Financial Advisory,North America,Enterprise,40272.71,37
+INV_0279,"Aug 27, 2024",Financial Advisory,APAC,Enterprise,26123.51,18
+INV_0280,"Nov 07, 2025",Tax Advisory,EMEA,Government,52512.51,71
+INV_0281,2025-05-22,Consulting,APAC,Government,34142.72,19
+INV_0282,03/11/2024,Tax Advisory,EMEA,SME,65027.89,18
+INV_0283,2025-04-19,Financial Advisory,EMEA,SME,22000.1,26
+INV_0284,"Dec 04, 2024",Audit & Assurance,North America,Government,55720.93,24
+INV_0285,22/02/2024,Risk Advisory,North America,Enterprise,61325.54,75
+INV_0286,"Nov 18, 2025",Tax Advisory,APAC,SME,71991.38,1
+INV_0287,2024-08-04,Audit & Assurance,EMEA,Government,47308.11,26
+INV_0288,2025-02-10,Financial Advisory,LATAM,Government,50410.49,39
+INV_0289,24/09/2024,Financial Advisory,LATAM,SME,69003.13,47
+INV_0290,16/11/2024,Audit & Assurance,EMEA,Enterprise,23254.19,74
+INV_0291,"Aug 16, 2025",RISK ADVISORY,EMEA,SME,44885.27,31
+INV_0292,"May 26, 2025",Consulting,LATAM,SME,16776.36,101
+INV_0293,2024-12-26,Tax Advisory,North America,Government,7367.66,108
+INV_0294,"Mar 17, 2024",Audit & Assurance,EMEA,Enterprise,54501.87,1
+INV_0295,"Aug 11, 2024",Risk Advisory,LATAM,Government,39149.81,0
+INV_0296,"Jun 28, 2025",risk advisory,APAC,Government,73423.55,2
+INV_0297,"May 29, 2025",Risk Advisory,North America,Enterprise,41706.98,30
+INV_0298,"Jul 15, 2024",Financial Advisory,LATAM,Enterprise,31113.61,51
+INV_0299,"Apr 15, 2025",Tax Advisory,North America,Government,74417.23,83
+INV_0300,2024-02-02,Risk Advisory,North America,Government,5661.51,21
+INV_0301,25/03/2024,Risk Advisory,North America,Government,69340.66,29
+INV_0302,"Aug 04, 2024",FINANCIAL ADVISORY,North America,Government,69790.94,115
+INV_0303,"Jul 10, 2025",audit & assurance,APAC,Enterprise,72302.84,75
+INV_0304,"May 27, 2024",Risk Advisory,EMEA,Government,63425.54,49
+INV_0305,"Nov 24, 2025",Consulting,North America,Government,57181.96,44
+INV_0306,2024-02-24,RISK ADVISORY,LATAM,SME,7073.8,34
+INV_0307,06/04/2025,Tax Advisory,LATAM,Enterprise,52578.64,84
+INV_0308,2025-01-24,Financial Advisory,North America,Enterprise,23758.04,48
+INV_0309,"Dec 29, 2025",Tax Advisory,North America,Enterprise,5363.67,39
+INV_0310,31/03/2025,consulting,North America,Enterprise,35168.57,71
+INV_0311,"Jul 22, 2025",risk advisory,North America,SME,43795.39,76
+INV_0312,04/09/2025,risk advisory,LATAM,SME,59541.84,92
+INV_0313,2025-07-26,Financial Advisory,EMEA,Enterprise,23824.33,34
+INV_0314,2025-05-19,audit & assurance,APAC,SME,25982.66,100
+INV_0315,19/03/2024,Consulting,LATAM,Government,48166.82,58
+INV_0316,2024-04-19,consulting,LATAM,SME,63912.94,48
+INV_0317,03/12/2024,Consulting,EMEA,SME,27446.56,88
+INV_0318,24/07/2024,consulting,LATAM,SME,25401.37,88
+INV_0319,10/10/2025,Financial Advisory,APAC,SME,30551.09,72
+INV_0320,"Jul 23, 2024",financial advisory,North America,Government,37313.56,90
+INV_0321,02/08/2024,CONSULTING,LATAM,Government,39951.23,81
+INV_0322,2024-11-06,Consulting,LATAM,Enterprise,36434.67,76
+INV_0323,"May 05, 2025",Risk Advisory,LATAM,Government,7573.56,46
+INV_0324,"Dec 19, 2025",FINANCIAL ADVISORY,EMEA,Government,51528.57,21
+INV_0325,"Oct 24, 2025",Audit & Assurance,LATAM,SME,72600.17,55
+INV_0326,2024-04-18,Audit & Assurance,EMEA,SME,31188.37,59
+INV_0327,"Nov 26, 2025",financial advisory,North America,SME,12318.46,53
+INV_0328,2024-03-28,Tax Advisory,EMEA,Government,38804.82,60
+INV_0329,09/04/2024,Risk Advisory,North America,Enterprise,64442.6,82
+INV_0330,"Apr 21, 2024",Tax Advisory,EMEA,Government,16209.5,71
+INV_0331,12/03/2025,Tax Advisory,EMEA,Government,51011.55,50
+INV_0332,"Jan 30, 2024",Financial Advisory,LATAM,SME,5311.5,27
+INV_0333,29/07/2024,Audit & Assurance,EMEA,SME,27818.94,58
+INV_0334,26/04/2024,Risk Advisory,LATAM,Government,32478.08,14
+INV_0335,22/12/2024,Risk Advisory,APAC,Government,46311.79,86
+INV_0336,17/05/2024,AUDIT & ASSURANCE,APAC,Government,14895.1,49
+INV_0337,"Mar 04, 2025",Tax Advisory,LATAM,Government,42616.55,82
+INV_0338,"Jun 26, 2024",TAX ADVISORY,APAC,SME,48358.7,110
+INV_0339,2025-01-02,risk advisory,LATAM,Government,40380.66,63
+INV_0340,"Feb 22, 2025",Risk Advisory,LATAM,Enterprise,10786.94,3
+INV_0341,13/08/2024,Audit & Assurance,EMEA,SME,44595.53,98
+INV_0342,"May 22, 2025",financial advisory,North America,SME,59257.91,105
+INV_0343,"Jan 10, 2025",Audit & Assurance,EMEA,SME,12169.15,106
+INV_0344,2025-10-31,CONSULTING,APAC,SME,65353.97,11
+INV_0345,2025-03-25,Tax Advisory,APAC,Government,47718.33,54
+INV_0346,"Jun 18, 2024",Tax Advisory,North America,Government,29557.08,35
+INV_0347,"Sep 03, 2025",Tax Advisory,APAC,Government,23714.01,109
+INV_0348,"Jun 10, 2025",audit & assurance,LATAM,Enterprise,74474.04,110
+INV_0349,2025-11-02,Tax Advisory,EMEA,Government,32489.05,18
+INV_0350,"Aug 14, 2025",Consulting,North America,Government,60621.9,98
+INV_0351,05/04/2024,Financial Advisory,APAC,SME,71517.79,41
+INV_0352,2025-08-18,Audit & Assurance,APAC,Enterprise,60697.45,50
+INV_0353,11/08/2024,Tax Advisory,APAC,SME,43311.74,16
+INV_0354,02/08/2025,Consulting,North America,Enterprise,48832.57,107
+INV_0355,2025-04-15,AUDIT & ASSURANCE,LATAM,Enterprise,74428.68,54
+INV_0356,"Jul 26, 2024",Tax Advisory,APAC,Enterprise,50821.16,32
+INV_0357,25/03/2024,tax advisory,APAC,Government,53960.9,29
+INV_0358,"Mar 15, 2025",AUDIT & ASSURANCE,LATAM,Enterprise,14288.99,28
+INV_0359,"Jun 15, 2025",risk advisory,APAC,Enterprise,74170.84,54
+INV_0360,2025-12-11,risk advisory,LATAM,Enterprise,56153.44,13
+INV_0361,15/04/2024,CONSULTING,EMEA,Government,74505.81,18
+INV_0362,"Mar 11, 2024",financial advisory,EMEA,SME,29583.14,27
+INV_0363,"Oct 05, 2025",Tax Advisory,LATAM,Enterprise,11068.16,12
+INV_0364,2024-05-23,Financial Advisory,LATAM,SME,60375.37,31
+INV_0365,"Oct 10, 2024",Audit & Assurance,APAC,Government,6877.71,108
+INV_0366,05/11/2025,Tax Advisory,LATAM,SME,50231.88,100
+INV_0367,02/09/2024,risk advisory,LATAM,Government,46575.08,67
+INV_0368,13/01/2024,consulting,LATAM,SME,43244.94,22
+INV_0369,2025-04-27,AUDIT & ASSURANCE,EMEA,Enterprise,69580.55,101
+INV_0370,"Feb 11, 2025",Consulting,LATAM,SME,54126.74,10
+INV_0371,"Oct 17, 2025",Financial Advisory,APAC,Enterprise,40791.33,26
+INV_0372,"Jun 08, 2024",Consulting,North America,SME,53907.31,93
+INV_0373,2024-09-01,tax advisory,LATAM,Enterprise,36736.03,77
+INV_0374,26/02/2024,tax advisory,EMEA,Government,5794.54,63
+INV_0375,"Dec 21, 2024",Financial Advisory,EMEA,SME,13885.14,99
+INV_0376,"Oct 02, 2024",AUDIT & ASSURANCE,LATAM,SME,41669.79,33
+INV_0377,"Dec 30, 2025",Audit & Assurance,North America,SME,65155.18,21
+INV_0378,2025-01-11,Consulting,North America,Enterprise,56854.6,0
+INV_0379,2024-02-15,tax advisory,APAC,SME,69415.86,22
+INV_0380,"Feb 06, 2024",Risk Advisory,APAC,SME,62819.79,73
+INV_0381,2025-01-16,FINANCIAL ADVISORY,EMEA,Government,73698.97,51
+INV_0382,11/03/2024,Consulting,North America,Government,36972.23,47
+INV_0383,24/07/2024,Financial Advisory,EMEA,SME,30779.15,63
+INV_0384,"Jul 19, 2024",Financial Advisory,North America,SME,6673.72,69
+INV_0385,"Dec 20, 2024",AUDIT & ASSURANCE,LATAM,Government,55905.05,13
+INV_0386,"Jul 29, 2024",Tax Advisory,EMEA,Government,24587.77,5
+INV_0387,"Aug 25, 2024",Risk Advisory,North America,Government,11690.39,17
+INV_0388,14/10/2025,AUDIT & ASSURANCE,EMEA,Enterprise,25417.32,108
+INV_0389,18/11/2024,Consulting,North America,Enterprise,14527.83,98
+INV_0390,2025-08-21,tax advisory,LATAM,SME,26982.33,15
+INV_0391,02/07/2025,Tax Advisory,North America,Enterprise,16033.08,87
+INV_0392,"Nov 07, 2024",financial advisory,APAC,Enterprise,11384.9,31
+INV_0393,30/12/2024,financial advisory,APAC,SME,62406.27,22
+INV_0394,01/02/2024,Risk Advisory,North America,SME,12133.51,101
+INV_0395,2024-05-23,audit & assurance,EMEA,Enterprise,18869.31,51
+INV_0396,"Jan 16, 2025",Audit & Assurance,North America,Enterprise,74801.3,25
+INV_0397,23/10/2025,tax advisory,APAC,Enterprise,7988.74,59
+INV_0398,2024-02-21,Financial Advisory,LATAM,Enterprise,31791.06,54
+INV_0399,25/06/2024,Tax Advisory,LATAM,Enterprise,7425.46,79
+INV_0400,2025-09-23,Consulting,LATAM,Enterprise,11140.51,49
+INV_0401,20/05/2024,Tax Advisory,EMEA,Government,74586.11,69
+INV_0402,20/01/2024,Consulting,APAC,Government,40167.53,49
+INV_0403,2024-10-03,Audit & Assurance,APAC,Enterprise,61605.77,60
+INV_0404,26/06/2025,Financial Advisory,North America,Enterprise,50980.51,34
+INV_0405,"Jun 30, 2025",Audit & Assurance,LATAM,SME,70464.42,108
+INV_0406,2024-06-26,Tax Advisory,APAC,Government,6974.46,89
+INV_0407,"Dec 26, 2024",financial advisory,EMEA,SME,42948.72,22
+INV_0408,2025-05-17,audit & assurance,EMEA,Enterprise,41851.4,0
+INV_0409,"Dec 05, 2024",Tax Advisory,EMEA,SME,9168.92,18
+INV_0410,"Aug 23, 2025",Tax Advisory,APAC,Enterprise,31151.35,84
+INV_0411,"Feb 09, 2025",Audit & Assurance,EMEA,Government,71408.55,101
+INV_0412,16/10/2025,consulting,APAC,Enterprise,51587.22,104
+INV_0413,28/06/2024,Consulting,EMEA,Government,5125.85,89
+INV_0414,09/08/2025,financial advisory,APAC,Government,20462.67,72
+INV_0415,16/04/2024,TAX ADVISORY,APAC,SME,16752.12,113
+INV_0416,"Mar 31, 2024",Consulting,EMEA,Government,9745.63,32
+INV_0417,"Apr 20, 2024",audit & assurance,LATAM,Government,34375.73,21
+INV_0418,27/02/2025,Risk Advisory,LATAM,Government,50567.87,87
+INV_0419,2024-08-18,risk advisory,North America,SME,6405.46,33
+INV_0420,2024-04-17,consulting,LATAM,Enterprise,56238.96,70
+INV_0421,05/04/2024,Financial Advisory,North America,SME,70970.96,21
+INV_0422,13/09/2025,tax advisory,APAC,Enterprise,73207.89,52
+INV_0423,"Dec 14, 2025",Financial Advisory,EMEA,Enterprise,8474.48,73
+INV_0424,16/07/2025,tax advisory,North America,SME,11133.99,105
+INV_0425,"Nov 08, 2025",FINANCIAL ADVISORY,EMEA,Enterprise,49673.35,10
+INV_0426,2025-04-29,Consulting,APAC,Enterprise,49930.65,49
+INV_0427,08/07/2024,Risk Advisory,APAC,SME,37554.06,28
+INV_0428,"Oct 02, 2024",audit & assurance,North America,Enterprise,51769.88,103
+INV_0429,08/07/2025,FINANCIAL ADVISORY,LATAM,Government,34304.25,68
+INV_0430,04/12/2025,Financial Advisory,North America,SME,68194.4,91
+INV_0431,"Feb 05, 2024",Financial Advisory,EMEA,Enterprise,71447.84,57
+INV_0432,2024-06-26,TAX ADVISORY,LATAM,Enterprise,74179.6,55
+INV_0433,"Jul 25, 2024",Tax Advisory,North America,Enterprise,32166.94,50
+INV_0434,19/07/2025,Consulting,North America,Government,48614.06,66
+INV_0435,2025-03-05,risk advisory,North America,Enterprise,44387.86,12
+INV_0436,"Oct 19, 2024",Consulting,LATAM,Government,47627.35,4
+INV_0437,25/06/2024,risk advisory,LATAM,Enterprise,32705.49,112
+INV_0438,"Dec 05, 2024",tax advisory,LATAM,SME,67792.2,2
+INV_0439,11/12/2024,Consulting,North America,Enterprise,14406.99,95
+INV_0440,29/03/2025,Consulting,North America,Enterprise,35920.16,105
+INV_0441,"Feb 20, 2025",Risk Advisory,North America,Government,60404.33,8
+INV_0442,"Nov 14, 2024",Financial Advisory,North America,Enterprise,18493.44,106
+INV_0443,2024-07-24,tax advisory,North America,SME,54324.38,35
+INV_0444,12/01/2025,Financial Advisory,North America,Enterprise,31072.67,76
+INV_0445,2025-04-01,Risk Advisory,EMEA,SME,57427.28,88
+INV_0446,02/04/2024,AUDIT & ASSURANCE,EMEA,Enterprise,50316.59,86
+INV_0447,30/07/2024,Risk Advisory,North America,SME,68806.08,82
+INV_0448,"Jun 26, 2024",Audit & Assurance,APAC,Government,72691.71,82
+INV_0449,08/10/2024,Risk Advisory,EMEA,SME,26150.16,66
+INV_0450,30/09/2025,financial advisory,APAC,Government,50313.95,77
+INV_0451,16/10/2024,Audit & Assurance,APAC,Government,27759.59,35
+INV_0452,"Sep 24, 2024",consulting,EMEA,Enterprise,61380.09,102
+INV_0453,06/09/2025,Consulting,LATAM,SME,23159.84,53
+INV_0454,18/02/2025,Audit & Assurance,EMEA,SME,55858.49,28
+INV_0455,"Dec 03, 2025",Risk Advisory,APAC,Enterprise,63844.71,112
+INV_0456,2025-07-25,consulting,EMEA,Government,23105.63,103
+INV_0457,2025-07-26,Consulting,EMEA,Government,66000.26,53
+INV_0458,05/12/2024,Consulting,North America,SME,8757.39,81
+INV_0459,"Aug 20, 2025",financial advisory,EMEA,Government,13387.12,87
+INV_0460,"Jan 25, 2025",Consulting,EMEA,Enterprise,74464.35,43
+INV_0461,"Feb 23, 2025",risk advisory,EMEA,Enterprise,39130.66,80
+INV_0462,30/06/2024,audit & assurance,APAC,Enterprise,58283.53,21
+INV_0463,2025-08-13,Risk Advisory,EMEA,Government,35359.8,54
+INV_0464,17/02/2025,RISK ADVISORY,EMEA,Government,31117.1,1
+INV_0465,"Nov 25, 2024",tax advisory,North America,Government,56352.23,28
+INV_0466,11/12/2025,consulting,LATAM,Government,46206.95,21
+INV_0467,2024-03-07,Consulting,APAC,SME,67158.18,17
+INV_0468,16/12/2024,CONSULTING,LATAM,Enterprise,20989.28,93
+INV_0469,2024-05-14,AUDIT & ASSURANCE,APAC,Government,50537.83,4
+INV_0470,"Jan 19, 2025",Consulting,North America,Government,12567.94,107
+INV_0471,2024-01-21,Audit & Assurance,APAC,SME,54130.78,26
+INV_0472,"Dec 12, 2025",Audit & Assurance,APAC,Government,47394.4,17
+INV_0473,2025-03-04,FINANCIAL ADVISORY,North America,Enterprise,39841.73,77
+INV_0474,23/07/2024,Financial Advisory,LATAM,SME,16226.15,70
+INV_0475,2025-05-23,RISK ADVISORY,North America,Enterprise,63466.25,85
+INV_0476,2025-05-20,AUDIT & ASSURANCE,North America,SME,50103.58,58
+INV_0477,30/10/2024,risk advisory,EMEA,Enterprise,64657.41,46
+INV_0478,24/11/2025,RISK ADVISORY,North America,Enterprise,64639.91,84
+INV_0479,2025-10-24,Consulting,APAC,Government,11506.59,104
+INV_0480,2024-12-16,Audit & Assurance,APAC,SME,53293.17,61
+INV_0481,"Mar 07, 2025",tax advisory,North America,Enterprise,12259.92,75
+INV_0482,"May 09, 2025",risk advisory,LATAM,SME,47795.09,110
+INV_0483,"Dec 01, 2025",Tax Advisory,LATAM,SME,8218.06,33
+INV_0484,01/11/2025,Audit & Assurance,EMEA,Government,66120.05,66
+INV_0485,"Jun 19, 2025",financial advisory,EMEA,SME,29202.46,86
+INV_0486,18/10/2025,Tax Advisory,North America,Enterprise,50037.91,20
+INV_0487,01/06/2025,RISK ADVISORY,LATAM,SME,21862.43,35
+INV_0488,"Feb 21, 2024",Tax Advisory,EMEA,Enterprise,37136.62,102
+INV_0489,09/08/2025,Audit & Assurance,North America,SME,57166.73,2
+INV_0490,15/04/2024,risk advisory,North America,Enterprise,60424.83,79
+INV_0491,14/10/2025,Financial Advisory,LATAM,SME,30433.97,6
+INV_0492,16/08/2024,Consulting,LATAM,Government,51001.7,91
+INV_0493,2025-04-08,Audit & Assurance,APAC,SME,63091.87,102
+INV_0494,"Oct 25, 2024",FINANCIAL ADVISORY,EMEA,SME,14831.44,91
+INV_0495,2025-02-23,CONSULTING,LATAM,Enterprise,36993.22,100
+INV_0496,"Jul 14, 2024",consulting,LATAM,Enterprise,69863.86,107
+INV_0497,"Nov 19, 2025",Audit & Assurance,EMEA,SME,5303.63,94
+INV_0498,"Feb 19, 2024",Risk Advisory,EMEA,Government,45498.81,93
+INV_0499,2024-05-11,Risk Advisory,APAC,Government,66697.34,53
+INV_0500,"Sep 15, 2025",Tax Advisory,APAC,SME,61335.78,17
+INV_0501,"Feb 26, 2025",Financial Advisory,APAC,Government,56577.31,70
+INV_0502,2025-10-09,Tax Advisory,APAC,Government,14287.02,90
+INV_0503,2025-10-27,Financial Advisory,North America,SME,44359.61,74
+INV_0504,"Aug 07, 2025",Risk Advisory,APAC,SME,61581.33,66
+INV_0505,2024-04-19,risk advisory,North America,Enterprise,23688.48,100
+INV_0506,13/06/2024,consulting,North America,Government,59905.02,26
+INV_0507,2025-07-08,CONSULTING,EMEA,Government,50298.36,49
+INV_0508,"Aug 31, 2024",CONSULTING,LATAM,SME,34159.64,100
+INV_0509,02/12/2025,financial advisory,APAC,Enterprise,48439.32,99
+INV_0510,2025-03-29,Consulting,EMEA,Government,72500.29,37
+INV_0511,2025-04-04,audit & assurance,EMEA,Government,40969.28,48
+INV_0512,11/02/2024,CONSULTING,APAC,Enterprise,28139.4,90
+INV_0513,2024-06-07,Tax Advisory,APAC,SME,60293.57,70
+INV_0514,2025-01-01,Consulting,North America,Government,16155.93,69
+INV_0515,03/07/2025,Audit & Assurance,APAC,SME,30255.85,27
+INV_0516,"Sep 25, 2025",Risk Advisory,North America,Enterprise,51825.69,57
+INV_0517,"Sep 03, 2024",Financial Advisory,North America,Government,66996.21,48
+INV_0518,26/04/2024,Consulting,APAC,Government,61197.17,57
+INV_0519,2025-05-13,CONSULTING,North America,Enterprise,16717.64,98
+INV_0520,"Jul 04, 2025",Audit & Assurance,EMEA,Government,34694.66,13
+INV_0521,"Jul 29, 2024",Risk Advisory,EMEA,Enterprise,37145.77,42
+INV_0522,2024-02-08,audit & assurance,APAC,Government,9930.95,105
+INV_0523,21/08/2024,Risk Advisory,LATAM,SME,6182.37,86
+INV_0524,"May 01, 2024",Audit & Assurance,North America,Government,64377.59,45
+INV_0525,2025-05-29,Consulting,North America,SME,58569.2,56
+INV_0526,25/01/2025,Audit & Assurance,EMEA,Government,32369.48,102
+INV_0527,12/07/2025,Tax Advisory,APAC,Enterprise,43746.69,71
+INV_0528,2024-05-24,audit & assurance,LATAM,Government,43326.78,10
+INV_0529,2024-11-08,Consulting,EMEA,Enterprise,17879.49,78
+INV_0530,2024-09-15,audit & assurance,North America,Government,37288.56,70
+INV_0531,15/03/2024,AUDIT & ASSURANCE,LATAM,SME,29999.69,85
+INV_0532,2025-11-02,AUDIT & ASSURANCE,EMEA,SME,39010.29,42
+INV_0533,"Sep 23, 2025",CONSULTING,APAC,SME,72106.12,21
+INV_0534,05/01/2024,Tax Advisory,LATAM,SME,63807.7,17
+INV_0535,"Nov 26, 2025",Consulting,APAC,SME,39088.0,13
+INV_0536,"Jun 28, 2024",financial advisory,APAC,Enterprise,67390.79,25
+INV_0537,"Sep 26, 2024",Audit & Assurance,North America,Government,45523.06,98
+INV_0538,2025-08-27,Audit & Assurance,LATAM,Government,59263.81,46
+INV_0539,2025-02-05,Financial Advisory,LATAM,Government,40728.84,50
+INV_0540,"Jan 07, 2025",Audit & Assurance,EMEA,Government,14825.95,20
+INV_0541,"Jul 02, 2024",Financial Advisory,LATAM,SME,7829.39,97
+INV_0542,2025-05-14,Audit & Assurance,EMEA,Government,68540.83,46
+INV_0543,01/02/2025,RISK ADVISORY,APAC,Enterprise,54261.54,66
+INV_0544,10/10/2025,Consulting,LATAM,Government,31496.3,75
+INV_0545,2025-10-31,Financial Advisory,EMEA,Government,33408.95,104
+INV_0546,19/12/2024,RISK ADVISORY,EMEA,SME,16592.41,9
+INV_0547,"Jun 10, 2025",CONSULTING,APAC,Government,55211.19,15
+INV_0548,2025-11-07,Risk Advisory,LATAM,Government,38517.02,26
+INV_0549,2025-08-27,risk advisory,North America,Enterprise,45144.06,20
+INV_0550,"May 17, 2024",financial advisory,EMEA,Enterprise,16643.9,23
+INV_0551,13/06/2025,Financial Advisory,APAC,Enterprise,20161.54,77
+INV_0552,27/04/2025,Tax Advisory,EMEA,Government,62431.72,23
+INV_0553,"Sep 30, 2025",Financial Advisory,APAC,SME,46757.34,8
+INV_0554,23/08/2024,risk advisory,North America,Enterprise,41589.79,64
+INV_0555,01/12/2025,TAX ADVISORY,North America,Government,40233.04,15
+INV_0556,05/04/2024,Tax Advisory,North America,Government,50446.22,66
+INV_0557,06/03/2025,Audit & Assurance,LATAM,SME,29536.25,102
+INV_0558,"Dec 14, 2025",Audit & Assurance,EMEA,Enterprise,24828.67,112
+INV_0559,10/07/2025,consulting,North America,Government,41577.84,66
+INV_0560,08/01/2024,Tax Advisory,APAC,Enterprise,15834.5,83
+INV_0561,22/08/2025,Consulting,APAC,Government,24289.24,87
+INV_0562,2025-02-10,Risk Advisory,EMEA,SME,44136.57,61
+INV_0563,16/09/2024,Financial Advisory,EMEA,Government,13336.0,29
+INV_0564,"Apr 02, 2025",tax advisory,LATAM,SME,61059.76,78
+INV_0565,"Dec 14, 2025",audit & assurance,North America,Enterprise,62627.88,60
+INV_0566,06/09/2025,audit & assurance,EMEA,SME,10602.78,4
+INV_0567,28/01/2025,Financial Advisory,North America,Enterprise,49820.39,56
+INV_0568,2024-01-11,FINANCIAL ADVISORY,EMEA,Government,16863.8,4
+INV_0569,2025-01-03,AUDIT & ASSURANCE,APAC,SME,29718.94,50
+INV_0570,"Feb 19, 2025",Tax Advisory,North America,Enterprise,43471.49,92
+INV_0571,"Jul 26, 2025",Consulting,EMEA,Government,72414.0,58
+INV_0572,"Feb 17, 2025",Audit & Assurance,North America,Government,10067.02,37
+INV_0573,2024-12-14,Financial Advisory,APAC,Government,35993.8,48
+INV_0574,30/07/2025,Tax Advisory,LATAM,Government,37250.43,75
+INV_0575,29/01/2024,Audit & Assurance,EMEA,Government,54082.33,102
+INV_0576,19/11/2024,CONSULTING,APAC,Enterprise,25110.27,51
+INV_0577,"Nov 20, 2025",consulting,EMEA,SME,26971.09,27
+INV_0578,10/08/2025,Tax Advisory,EMEA,SME,56597.86,30
+INV_0579,04/09/2024,Tax Advisory,APAC,Enterprise,59525.69,15
+INV_0580,"Mar 21, 2024",Risk Advisory,North America,SME,30983.76,40
+INV_0581,"May 19, 2025",Consulting,APAC,SME,20546.49,73
+INV_0582,2024-05-11,Financial Advisory,North America,Government,29310.23,110
+INV_0583,2025-12-03,Risk Advisory,LATAM,SME,53244.74,1
+INV_0584,2025-11-21,Risk Advisory,APAC,Enterprise,43399.44,30
+INV_0585,02/10/2024,FINANCIAL ADVISORY,LATAM,Enterprise,34336.51,96
+INV_0586,16/01/2025,RISK ADVISORY,EMEA,Government,53020.83,104
+INV_0587,"Apr 12, 2024",Consulting,LATAM,Enterprise,15209.06,94
+INV_0588,02/06/2024,audit & assurance,LATAM,Enterprise,74689.32,108
+INV_0589,"Oct 07, 2025",Financial Advisory,APAC,SME,44349.69,72
+INV_0590,18/02/2024,AUDIT & ASSURANCE,APAC,SME,63728.02,12
+INV_0591,"Apr 05, 2025",Consulting,APAC,SME,6388.47,15
+INV_0592,"Dec 25, 2024",financial advisory,EMEA,SME,29857.63,86
+INV_0593,06/06/2025,Risk Advisory,APAC,SME,49219.85,18
+INV_0594,"Jun 20, 2024",Consulting,LATAM,Enterprise,10537.83,43
+INV_0595,21/08/2024,Consulting,LATAM,SME,67138.43,99
+INV_0596,"Jan 06, 2025",Financial Advisory,EMEA,Enterprise,64794.83,16
+INV_0597,"Aug 28, 2024",Consulting,North America,Enterprise,16683.73,13
+INV_0598,2024-04-07,RISK ADVISORY,LATAM,Government,58549.75,10
+INV_0599,16/04/2024,financial advisory,LATAM,SME,21054.92,94
+INV_0600,17/10/2024,tax advisory,EMEA,Enterprise,7460.85,45
+INV_0601,29/11/2024,Risk Advisory,APAC,Government,36139.15,89
+INV_0602,2025-07-06,Financial Advisory,LATAM,Government,49785.06,68
+INV_0603,13/11/2024,Risk Advisory,LATAM,SME,30604.83,33
+INV_0604,08/06/2024,audit & assurance,EMEA,SME,25073.36,68
+INV_0605,"Jan 09, 2024",Risk Advisory,North America,SME,60857.53,76
+INV_0606,2024-08-24,Financial Advisory,LATAM,SME,22492.73,91
+INV_0607,23/10/2025,RISK ADVISORY,EMEA,Government,58517.68,78
+INV_0608,"Dec 11, 2025",Consulting,APAC,SME,18160.04,8
+INV_0609,2024-07-05,consulting,LATAM,Government,36693.71,89
+INV_0610,29/09/2025,TAX ADVISORY,North America,Enterprise,73063.28,36
+INV_0611,2024-10-02,Risk Advisory,EMEA,Enterprise,39550.57,43
+INV_0612,06/03/2025,Risk Advisory,North America,SME,10615.62,96
+INV_0613,2024-05-29,CONSULTING,LATAM,Enterprise,18453.46,107
+INV_0614,13/09/2024,audit & assurance,EMEA,SME,58985.77,56
+INV_0615,"Sep 10, 2024",audit & assurance,North America,Government,51620.55,26
+INV_0616,29/04/2025,CONSULTING,North America,Government,70619.46,66
+INV_0617,05/05/2024,RISK ADVISORY,North America,Government,20245.18,14
+INV_0618,"Aug 29, 2024",RISK ADVISORY,APAC,Government,13375.47,101
+INV_0619,2024-09-05,Audit & Assurance,EMEA,SME,58955.79,31
+INV_0620,10/06/2024,Audit & Assurance,North America,Enterprise,29886.24,19
+INV_0621,"Dec 19, 2025",audit & assurance,EMEA,SME,73717.3,100
+INV_0622,22/10/2025,RISK ADVISORY,LATAM,SME,55707.94,32
+INV_0623,10/02/2024,Risk Advisory,LATAM,Enterprise,44669.12,69
+INV_0624,22/12/2024,Risk Advisory,EMEA,Enterprise,42179.62,57
+INV_0625,29/10/2024,FINANCIAL ADVISORY,LATAM,Government,17987.4,2
+INV_0626,26/09/2025,Financial Advisory,LATAM,Enterprise,41684.88,63
+INV_0627,2025-07-18,Financial Advisory,APAC,Enterprise,11737.94,84
+INV_0628,2024-03-09,tax advisory,North America,Enterprise,12493.86,24
+INV_0629,2024-04-11,Financial Advisory,LATAM,Government,48677.93,75
+INV_0630,2024-09-19,Consulting,North America,Enterprise,50902.46,113
+INV_0631,22/03/2024,Audit & Assurance,LATAM,SME,60597.47,7
+INV_0632,23/09/2025,financial advisory,North America,SME,10455.48,27
+INV_0633,2025-06-15,Audit & Assurance,EMEA,Enterprise,41833.44,31
+INV_0634,"Aug 06, 2025",Tax Advisory,North America,Government,45359.46,86
+INV_0635,"Apr 14, 2025",RISK ADVISORY,EMEA,Government,33109.0,43
+INV_0636,2025-11-04,Financial Advisory,APAC,SME,43505.69,41
+INV_0637,15/01/2025,Risk Advisory,EMEA,Government,43193.84,48
+INV_0638,"Jul 17, 2025",Consulting,LATAM,Enterprise,55841.93,36
+INV_0639,2025-09-02,financial advisory,APAC,Enterprise,26023.38,28
+INV_0640,07/08/2024,Audit & Assurance,APAC,Government,40789.0,73
+INV_0641,2025-08-08,audit & assurance,APAC,Enterprise,14688.57,46
+INV_0642,2025-08-19,Tax Advisory,LATAM,Government,69251.73,93
+INV_0643,"Mar 20, 2024",CONSULTING,North America,Government,49957.82,4
+INV_0644,13/08/2025,Audit & Assurance,APAC,SME,66585.48,55
+INV_0645,2025-03-02,Tax Advisory,North America,Government,59419.3,48
+INV_0646,25/02/2024,financial advisory,EMEA,SME,40168.11,28
+INV_0647,2024-06-05,Risk Advisory,North America,Enterprise,35235.5,100
+INV_0648,2025-02-07,Tax Advisory,North America,Government,32943.39,10
+INV_0649,"Feb 12, 2025",RISK ADVISORY,EMEA,SME,44150.73,62
+INV_0650,"Feb 08, 2025",financial advisory,EMEA,Enterprise,10015.08,99
+INV_0651,16/03/2025,financial advisory,LATAM,SME,30568.74,24
+INV_0652,24/11/2024,Financial Advisory,EMEA,SME,48135.47,102
+INV_0653,"Mar 28, 2025",Tax Advisory,EMEA,Enterprise,52975.15,19
+INV_0654,2024-03-28,Audit & Assurance,EMEA,SME,5961.33,88
+INV_0655,23/04/2024,Risk Advisory,EMEA,Enterprise,43249.69,96
+INV_0656,"Sep 21, 2024",Risk Advisory,North America,SME,45810.35,84
+INV_0657,2025-06-23,consulting,APAC,Enterprise,60243.19,79
+INV_0658,2024-10-04,RISK ADVISORY,LATAM,Government,23991.73,109
+INV_0659,06/11/2025,audit & assurance,LATAM,Enterprise,73585.5,65
+INV_0660,2025-12-27,Consulting,North America,Enterprise,18921.26,58
+INV_0661,"Jul 28, 2025",audit & assurance,APAC,SME,39295.3,95
+INV_0662,2024-06-09,Consulting,APAC,Enterprise,74719.61,64
+INV_0663,2024-10-09,Consulting,North America,Government,71438.15,28
+INV_0664,04/06/2024,RISK ADVISORY,LATAM,Government,72242.4,78
+INV_0665,"Oct 02, 2025",Tax Advisory,LATAM,SME,68681.48,42
+INV_0666,"Apr 04, 2025",TAX ADVISORY,EMEA,Enterprise,26629.89,90
+INV_0667,2025-06-20,Risk Advisory,EMEA,Government,70312.1,20
+INV_0668,2024-11-21,Financial Advisory,EMEA,SME,63766.58,18
+INV_0669,31/01/2024,Risk Advisory,APAC,Enterprise,59537.55,13
+INV_0670,2024-05-14,Audit & Assurance,APAC,Government,44693.02,29
+INV_0671,2025-09-02,Tax Advisory,LATAM,Enterprise,40162.72,77
+INV_0672,"Apr 25, 2025",consulting,LATAM,SME,38169.28,20
+INV_0673,2024-07-16,Audit & Assurance,APAC,SME,20578.79,85
+INV_0674,2024-07-26,audit & assurance,LATAM,Government,39296.0,41
+INV_0675,2025-04-13,RISK ADVISORY,LATAM,Government,26902.82,78
+INV_0676,"Aug 08, 2025",Financial Advisory,North America,Government,12652.14,58
+INV_0677,2024-02-13,Financial Advisory,North America,Government,32117.85,97
+INV_0678,2025-10-07,Tax Advisory,APAC,SME,37294.3,54
+INV_0679,"Oct 28, 2024",Audit & Assurance,LATAM,Government,36618.87,92
+INV_0680,2025-05-27,Tax Advisory,EMEA,SME,33949.15,57
+INV_0681,2024-01-26,Risk Advisory,EMEA,SME,11312.58,41
+INV_0682,"Dec 09, 2025",TAX ADVISORY,North America,Government,36457.89,46
+INV_0683,"Mar 28, 2024",Risk Advisory,EMEA,SME,43524.21,5
+INV_0684,23/06/2024,Financial Advisory,EMEA,Enterprise,17520.67,91
+INV_0685,22/02/2024,Consulting,LATAM,SME,48851.7,15
+INV_0686,2024-05-14,Audit & Assurance,LATAM,SME,64878.77,69
+INV_0687,"Jan 06, 2024",Risk Advisory,LATAM,SME,33710.6,10
+INV_0688,"Sep 07, 2025",Audit & Assurance,EMEA,Enterprise,17938.8,7
+INV_0689,30/10/2025,audit & assurance,North America,Government,45466.49,77
+INV_0690,01/11/2024,audit & assurance,LATAM,Enterprise,16293.47,36
+INV_0691,"Sep 17, 2025",Financial Advisory,LATAM,Government,45527.64,4
+INV_0692,05/04/2024,Consulting,North America,SME,64031.67,8
+INV_0693,26/10/2024,tax advisory,APAC,SME,41893.69,67
+INV_0694,"Aug 02, 2024",TAX ADVISORY,North America,SME,55685.19,77
+INV_0695,24/12/2025,Risk Advisory,APAC,Enterprise,48000.3,63
+INV_0696,"Jun 16, 2025",RISK ADVISORY,EMEA,Government,25334.16,24
+INV_0697,2024-01-02,Audit & Assurance,EMEA,Government,74929.09,52
+INV_0698,16/02/2024,Consulting,North America,Government,19083.1,36
+INV_0699,2024-09-17,Consulting,North America,Enterprise,53008.51,43
+INV_0700,"Feb 09, 2025",FINANCIAL ADVISORY,EMEA,Enterprise,28136.04,43
+INV_0701,19/11/2025,Risk Advisory,LATAM,Enterprise,48904.03,114
+INV_0702,03/07/2025,Risk Advisory,North America,Government,25954.06,92
+INV_0703,25/11/2025,Financial Advisory,APAC,SME,9634.91,19
+INV_0704,2024-10-14,Consulting,EMEA,Government,47398.24,23
+INV_0705,2025-09-01,Consulting,North America,SME,33970.87,63
+INV_0706,31/08/2024,Risk Advisory,APAC,Enterprise,12856.19,100
+INV_0707,2024-02-08,AUDIT & ASSURANCE,LATAM,Government,15785.44,43
+INV_0708,"May 10, 2025",Financial Advisory,North America,Government,52370.21,16
+INV_0709,"Jul 29, 2024",Audit & Assurance,North America,Enterprise,26768.69,5
+INV_0710,"Dec 04, 2025",Audit & Assurance,North America,Government,58632.61,95
+INV_0711,2024-11-15,Financial Advisory,EMEA,SME,19038.89,36
+INV_0712,"Oct 10, 2024",Consulting,APAC,Enterprise,16024.72,14
+INV_0713,"Jan 16, 2024",Financial Advisory,APAC,Government,27293.94,18
+INV_0714,22/12/2025,FINANCIAL ADVISORY,APAC,Government,36055.33,16
+INV_0715,30/01/2024,audit & assurance,North America,Enterprise,34852.6,22
+INV_0716,"Dec 22, 2025",Financial Advisory,LATAM,Government,29893.7,42
+INV_0717,"Jul 21, 2024",financial advisory,LATAM,Government,14225.67,104
+INV_0718,16/12/2025,Audit & Assurance,LATAM,SME,21218.59,28
+INV_0719,"May 27, 2024",Consulting,APAC,SME,36729.81,3
+INV_0720,07/03/2024,Audit & Assurance,EMEA,SME,58755.91,77
+INV_0721,2025-08-11,financial advisory,North America,SME,43930.49,9
+INV_0722,"Nov 05, 2024",Risk Advisory,EMEA,Government,16131.42,61
+INV_0723,2025-01-28,Consulting,LATAM,SME,44704.78,43
+INV_0724,"Jul 11, 2025",tax advisory,North America,Government,70160.43,73
+INV_0725,2025-05-13,Financial Advisory,North America,SME,17332.18,51
+INV_0726,"Mar 12, 2024",Audit & Assurance,LATAM,SME,39600.66,84
+INV_0727,2024-03-03,Tax Advisory,North America,Enterprise,51261.7,57
+INV_0728,28/06/2025,Risk Advisory,EMEA,Government,66419.77,38
+INV_0729,"Aug 06, 2025",Consulting,APAC,Enterprise,45790.89,78
+INV_0730,06/06/2025,TAX ADVISORY,North America,Enterprise,54234.79,105
+INV_0731,2025-01-02,Consulting,LATAM,Government,27268.91,48
+INV_0732,19/02/2025,Risk Advisory,LATAM,Enterprise,18175.88,49
+INV_0733,03/01/2025,Tax Advisory,EMEA,Enterprise,5812.19,82
+INV_0734,2024-01-17,Risk Advisory,EMEA,Enterprise,14605.42,103
+INV_0735,01/03/2025,Financial Advisory,LATAM,Government,34688.73,104
+INV_0736,05/04/2025,Consulting,North America,Government,39870.99,93
+INV_0737,"Aug 30, 2024",Financial Advisory,APAC,Enterprise,73476.34,72
+INV_0738,"May 09, 2025",consulting,LATAM,Government,10604.42,93
+INV_0739,23/06/2025,Risk Advisory,North America,Enterprise,38071.61,94
+INV_0740,"Nov 10, 2025",Audit & Assurance,APAC,Government,8694.2,43
+INV_0741,2025-07-01,Risk Advisory,APAC,SME,29704.02,102
+INV_0742,28/10/2024,tax advisory,APAC,Government,59951.51,33
+INV_0743,"Mar 03, 2024",Risk Advisory,APAC,Government,48702.19,36
+INV_0744,2025-05-11,Tax Advisory,APAC,SME,14277.71,35
+INV_0745,08/10/2024,Audit & Assurance,EMEA,Government,36265.72,103
+INV_0746,28/06/2024,Tax Advisory,North America,SME,73885.02,18
+INV_0747,2025-09-01,Risk Advisory,LATAM,Enterprise,51246.71,92
+INV_0748,2025-10-14,Tax Advisory,North America,Government,23507.68,104
+INV_0749,2024-04-28,Tax Advisory,LATAM,Government,71377.62,68
+INV_0750,27/08/2024,RISK ADVISORY,LATAM,Enterprise,25215.46,102
+INV_0751,04/04/2025,Consulting,North America,Enterprise,69239.85,81
+INV_0752,28/12/2024,Financial Advisory,APAC,SME,23696.15,12
+INV_0753,"Sep 18, 2024",Financial Advisory,EMEA,Government,52032.29,98
+INV_0754,"Jul 18, 2024",Consulting,APAC,Government,5740.46,1
+INV_0755,2024-03-10,risk advisory,North America,Government,36215.95,28
+INV_0756,17/10/2024,tax advisory,North America,Enterprise,70695.38,84
+INV_0757,"Aug 10, 2024",AUDIT & ASSURANCE,EMEA,SME,50947.62,115
+INV_0758,"Oct 25, 2025",Tax Advisory,APAC,SME,37686.89,9
+INV_0759,16/10/2025,Consulting,APAC,SME,16337.62,9
+INV_0760,2024-10-10,Risk Advisory,APAC,SME,17455.06,8
+INV_0761,2025-05-18,Financial Advisory,North America,Enterprise,42844.25,55
+INV_0762,"Aug 11, 2024",Audit & Assurance,North America,Enterprise,10104.37,73
+INV_0763,13/09/2024,AUDIT & ASSURANCE,North America,Enterprise,51522.41,34
+INV_0764,"Jun 04, 2024",Consulting,LATAM,SME,35524.04,108
+INV_0765,"Mar 12, 2024",tax advisory,LATAM,Enterprise,44707.07,45
+INV_0766,"Dec 07, 2024",Consulting,North America,SME,42423.84,43
+INV_0767,23/03/2024,CONSULTING,North America,SME,51251.39,38
+INV_0768,13/12/2025,Audit & Assurance,North America,Government,35658.86,24
+INV_0769,2024-05-23,tax advisory,EMEA,SME,32213.73,101
+INV_0770,"Jul 07, 2025",Consulting,LATAM,Enterprise,7592.99,7
+INV_0771,"Dec 11, 2024",Audit & Assurance,LATAM,Government,65914.0,68
+INV_0772,"Jun 01, 2024",FINANCIAL ADVISORY,EMEA,SME,50768.21,60
+INV_0773,2025-09-25,TAX ADVISORY,EMEA,Government,8497.06,39
+INV_0774,09/04/2024,financial advisory,North America,Enterprise,12992.58,76
+INV_0775,2025-09-22,Audit & Assurance,LATAM,SME,13456.17,87
+INV_0776,"Aug 12, 2025",Tax Advisory,EMEA,Enterprise,46515.97,42
+INV_0777,2024-03-05,consulting,LATAM,Enterprise,53740.7,70
+INV_0778,17/06/2024,TAX ADVISORY,North America,Government,47870.91,99
+INV_0779,2024-06-10,risk advisory,North America,Enterprise,69829.59,90
+INV_0780,"Oct 29, 2025",Consulting,LATAM,Government,13882.47,18
+INV_0781,17/10/2025,Financial Advisory,EMEA,Government,53417.15,76
+INV_0782,"Jul 03, 2024",RISK ADVISORY,APAC,SME,34315.01,71
+INV_0783,2024-08-29,Audit & Assurance,APAC,Government,40527.85,59
+INV_0784,"Oct 03, 2025",TAX ADVISORY,EMEA,Government,64064.72,60
+INV_0785,2025-05-24,TAX ADVISORY,APAC,SME,19671.28,32
+INV_0786,"Dec 08, 2024",risk advisory,North America,Government,17312.13,100
+INV_0787,30/01/2024,financial advisory,EMEA,Government,36137.46,74
+INV_0788,29/11/2024,Tax Advisory,EMEA,Enterprise,27829.26,12
+INV_0789,"Aug 30, 2024",Risk Advisory,EMEA,Enterprise,37969.32,62
+INV_0790,25/02/2024,Tax Advisory,EMEA,SME,31143.96,58
+INV_0791,"Jul 17, 2024",Consulting,EMEA,Enterprise,53454.74,7
+INV_0792,2024-10-14,Audit & Assurance,EMEA,SME,20389.75,37
+INV_0793,2025-09-10,Financial Advisory,EMEA,Enterprise,33818.73,66
+INV_0794,2025-05-15,Financial Advisory,North America,Government,34967.73,111
+INV_0795,2024-09-09,Consulting,EMEA,Government,67877.63,53
+INV_0796,2024-02-15,Risk Advisory,LATAM,Government,32602.41,103
+INV_0797,2025-12-14,RISK ADVISORY,North America,Government,56225.04,27
+INV_0798,15/05/2024,Consulting,North America,SME,51832.49,20
+INV_0799,21/12/2025,FINANCIAL ADVISORY,LATAM,SME,59028.45,111
+INV_0800,21/12/2025,Tax Advisory,LATAM,Government,49338.16,110
+INV_0801,2025-10-04,Risk Advisory,North America,SME,34813.16,34
+INV_0802,"Dec 15, 2025",Financial Advisory,North America,Government,66659.31,94
+INV_0803,"Feb 26, 2024",CONSULTING,APAC,SME,48339.34,46
+INV_0804,2025-01-10,Financial Advisory,EMEA,Enterprise,73687.61,30
+INV_0805,2025-07-06,Risk Advisory,EMEA,Government,58262.01,41
+INV_0806,27/12/2024,Financial Advisory,North America,SME,29165.86,62
+INV_0807,"May 28, 2025",Audit & Assurance,APAC,SME,48466.59,102
+INV_0808,"Nov 20, 2025",audit & assurance,LATAM,Enterprise,10611.93,114
+INV_0809,02/07/2024,audit & assurance,APAC,Enterprise,53795.75,63
+INV_0810,2024-06-03,FINANCIAL ADVISORY,LATAM,Government,42900.45,16
+INV_0811,30/04/2025,Risk Advisory,APAC,Enterprise,9406.47,111
+INV_0812,"Aug 25, 2024",Consulting,APAC,SME,46535.01,89
+INV_0813,"Jun 26, 2025",Risk Advisory,APAC,Enterprise,60248.74,29
+INV_0814,10/05/2025,CONSULTING,APAC,SME,36914.86,21
+INV_0815,2025-09-25,Financial Advisory,EMEA,Enterprise,21653.37,5
+INV_0816,"Nov 20, 2024",Tax Advisory,EMEA,Government,54499.41,85
+INV_0817,20/11/2024,Tax Advisory,EMEA,Government,26109.18,3
+INV_0818,18/02/2025,Tax Advisory,EMEA,Enterprise,72910.51,69
+INV_0819,03/06/2025,Consulting,EMEA,Government,55998.07,56
+INV_0820,"Dec 12, 2024",Audit & Assurance,EMEA,Government,43567.2,39
+INV_0821,26/01/2024,Financial Advisory,North America,SME,8852.35,82
+INV_0822,"Jul 18, 2024",Financial Advisory,APAC,Enterprise,6578.41,68
+INV_0823,"Apr 01, 2025",Audit & Assurance,LATAM,SME,47222.03,65
+INV_0824,"Feb 27, 2024",Consulting,LATAM,SME,32027.88,1
+INV_0825,18/10/2024,Consulting,North America,Enterprise,55949.73,56
+INV_0826,01/03/2025,consulting,LATAM,Government,67750.02,17
+INV_0827,"Aug 24, 2025",audit & assurance,APAC,SME,74186.77,67
+INV_0828,2024-12-09,FINANCIAL ADVISORY,LATAM,Government,69008.73,53
+INV_0829,"Jun 28, 2024",Risk Advisory,EMEA,Enterprise,18020.45,48
+INV_0830,"Oct 23, 2024",risk advisory,APAC,Government,26274.01,71
+INV_0831,2025-04-19,AUDIT & ASSURANCE,APAC,Government,63397.01,60
+INV_0832,"May 07, 2024",Consulting,EMEA,Enterprise,13354.83,35
+INV_0833,2025-05-19,Financial Advisory,LATAM,SME,48959.72,60
+INV_0834,2025-12-11,Consulting,APAC,Enterprise,45715.81,18
+INV_0835,23/11/2024,TAX ADVISORY,APAC,SME,49537.3,45
+INV_0836,19/02/2024,Consulting,EMEA,Government,17827.32,12
+INV_0837,2025-09-05,Financial Advisory,APAC,SME,52981.06,88
+INV_0838,2025-01-06,Financial Advisory,North America,Enterprise,41271.95,47
+INV_0839,11/05/2025,CONSULTING,EMEA,Enterprise,40236.8,106
+INV_0840,"Jul 11, 2024",Financial Advisory,North America,SME,37234.4,9
+INV_0841,2024-04-29,Audit & Assurance,APAC,Enterprise,62192.71,113
+INV_0842,"Sep 03, 2025",consulting,APAC,Enterprise,57112.22,15
+INV_0843,2024-08-15,Tax Advisory,EMEA,Enterprise,73677.67,54
+INV_0844,2025-12-08,audit & assurance,LATAM,SME,7976.19,13
+INV_0845,"Feb 03, 2024",Financial Advisory,APAC,Enterprise,9637.32,85
+INV_0846,2024-01-11,Audit & Assurance,EMEA,Enterprise,51942.05,3
+INV_0847,2024-04-02,Consulting,EMEA,Government,59656.15,78
+INV_0848,"Sep 04, 2024",financial advisory,North America,Government,20189.87,24
+INV_0849,2024-10-15,financial advisory,North America,Enterprise,69433.4,108
+INV_0850,25/12/2025,CONSULTING,North America,Enterprise,63431.95,48
+INV_0851,2025-03-10,FINANCIAL ADVISORY,APAC,Enterprise,37613.12,66
+INV_0852,19/05/2024,Consulting,North America,Enterprise,27968.08,14
+INV_0853,29/01/2025,Risk Advisory,LATAM,Enterprise,43774.11,37
+INV_0854,2025-03-14,Audit & Assurance,APAC,Enterprise,5895.01,86
+INV_0855,"May 18, 2025",Audit & Assurance,North America,Enterprise,15035.73,51
+INV_0856,"Dec 12, 2025",Audit & Assurance,EMEA,Enterprise,30459.7,25
+INV_0857,2024-12-12,Financial Advisory,EMEA,SME,55764.04,35
+INV_0858,"Dec 31, 2025",Financial Advisory,LATAM,SME,38307.84,77
+INV_0859,18/02/2025,Financial Advisory,North America,Enterprise,22548.29,63
+INV_0860,"Aug 24, 2024",tax advisory,North America,Enterprise,39869.44,3
+INV_0861,02/07/2024,FINANCIAL ADVISORY,North America,Enterprise,51275.64,66
+INV_0862,19/05/2025,Tax Advisory,APAC,Government,29053.1,110
+INV_0863,"Jul 07, 2025",AUDIT & ASSURANCE,LATAM,Enterprise,31854.09,40
+INV_0864,20/01/2025,risk advisory,EMEA,Government,51158.77,99
+INV_0865,"Nov 06, 2024",TAX ADVISORY,LATAM,SME,58480.78,72
+INV_0866,22/11/2025,Financial Advisory,LATAM,Government,64804.6,64
+INV_0867,27/02/2024,Consulting,APAC,SME,27433.79,3
+INV_0868,2025-08-27,Tax Advisory,North America,Government,28887.96,12
+INV_0869,14/03/2025,CONSULTING,EMEA,Enterprise,21423.55,39
+INV_0870,2025-08-29,AUDIT & ASSURANCE,EMEA,Enterprise,42689.18,4
+INV_0871,"Apr 16, 2025",Risk Advisory,APAC,Enterprise,53717.09,75
+INV_0872,23/01/2024,Risk Advisory,North America,SME,12003.97,86
+INV_0873,29/07/2024,Risk Advisory,APAC,Enterprise,48037.95,46
+INV_0874,2025-03-22,Risk Advisory,North America,Government,19985.61,33
+INV_0875,18/02/2024,Financial Advisory,North America,Government,64093.08,12
+INV_0876,29/08/2025,consulting,LATAM,SME,19681.74,101
+INV_0877,"Mar 19, 2024",Consulting,APAC,Enterprise,34002.0,32
+INV_0878,"Oct 01, 2025",Risk Advisory,North America,Government,54233.22,110
+INV_0879,"Jul 10, 2024",Risk Advisory,LATAM,SME,70601.4,68
+INV_0880,21/09/2025,FINANCIAL ADVISORY,EMEA,SME,37374.07,30
+INV_0881,"Jun 03, 2024",Consulting,North America,Government,19249.06,52
+INV_0882,30/09/2024,Tax Advisory,LATAM,Enterprise,12949.1,24
+INV_0883,2024-01-29,Consulting,LATAM,SME,50284.54,4
+INV_0884,2024-07-25,consulting,APAC,SME,51106.95,22
+INV_0885,2025-10-21,RISK ADVISORY,North America,SME,47111.98,110
+INV_0886,06/03/2024,Consulting,LATAM,Government,63992.52,30
+INV_0887,"Apr 24, 2024",Financial Advisory,APAC,SME,66919.54,30
+INV_0888,2025-09-06,Consulting,LATAM,Government,57077.13,54
+INV_0889,2024-08-11,audit & assurance,APAC,SME,33586.29,110
+INV_0890,2025-08-26,Risk Advisory,North America,SME,43202.15,60
+INV_0891,2025-11-30,Consulting,APAC,SME,55096.99,105
+INV_0892,2024-11-11,financial advisory,North America,Government,69222.01,85
+INV_0893,02/09/2024,Financial Advisory,APAC,Government,13543.76,110
+INV_0894,30/08/2024,risk advisory,LATAM,SME,26062.17,105
+INV_0895,29/08/2024,TAX ADVISORY,LATAM,Government,27202.91,103
+INV_0896,21/10/2025,AUDIT & ASSURANCE,LATAM,SME,56585.94,107
+INV_0897,"Dec 06, 2024",Risk Advisory,EMEA,Government,23267.91,8
+INV_0898,26/12/2024,Financial Advisory,APAC,SME,53664.71,97
+INV_0899,"Feb 23, 2024",Tax Advisory,EMEA,Enterprise,33046.33,80
+INV_0900,08/11/2024,financial advisory,EMEA,Enterprise,41145.61,98
+INV_0901,2025-10-26,Financial Advisory,APAC,SME,38485.58,94
+INV_0902,16/05/2024,Tax Advisory,APAC,Enterprise,10907.93,47
+INV_0903,05/07/2024,Risk Advisory,EMEA,Enterprise,71367.65,71
+INV_0904,"Oct 24, 2025",Tax Advisory,EMEA,SME,54088.28,21
+INV_0905,20/02/2024,Financial Advisory,North America,SME,16908.6,72
+INV_0906,2024-04-30,Financial Advisory,LATAM,Government,39590.43,28
+INV_0907,2025-12-31,Tax Advisory,APAC,SME,57251.01,48
+INV_0908,13/05/2024,Tax Advisory,APAC,Government,52403.21,53
+INV_0909,03/07/2024,tax advisory,APAC,Enterprise,48237.62,31
+INV_0910,"Jan 13, 2025",risk advisory,LATAM,Enterprise,66001.04,88
+INV_0911,"Feb 11, 2025",Tax Advisory,APAC,Enterprise,11669.56,7
+INV_0912,23/02/2024,Tax Advisory,North America,Enterprise,22755.98,79
+INV_0913,25/01/2025,RISK ADVISORY,North America,Government,17556.06,21
+INV_0914,30/05/2025,CONSULTING,APAC,Government,42129.67,18
+INV_0915,2024-09-23,consulting,EMEA,SME,66017.57,106
+INV_0916,"Oct 14, 2024",Consulting,APAC,Government,63071.24,33
+INV_0917,13/06/2025,Risk Advisory,LATAM,Enterprise,43897.23,84
+INV_0918,13/10/2025,audit & assurance,North America,Enterprise,17819.89,60
+INV_0919,2024-09-23,Risk Advisory,LATAM,Enterprise,35906.38,90
+INV_0920,28/07/2025,Risk Advisory,EMEA,Enterprise,29472.3,26
+INV_0921,2024-10-17,Tax Advisory,EMEA,Government,74860.32,0
+INV_0922,"Jun 22, 2025",TAX ADVISORY,LATAM,Government,11601.37,42
+INV_0923,27/01/2024,Audit & Assurance,North America,SME,15764.28,10
+INV_0924,"Apr 16, 2025",Risk Advisory,North America,SME,72883.94,83
+INV_0925,29/09/2025,Consulting,EMEA,Enterprise,65429.52,102
+INV_0926,21/10/2025,Consulting,LATAM,Enterprise,32920.09,22
+INV_0927,02/09/2024,audit & assurance,EMEA,Enterprise,32195.2,51
+INV_0928,"Oct 18, 2024",tax advisory,LATAM,SME,56512.25,39
+INV_0929,"Dec 02, 2025",TAX ADVISORY,APAC,Government,18990.99,57
+INV_0930,01/02/2025,Consulting,LATAM,SME,47970.74,55
+INV_0931,07/10/2025,audit & assurance,APAC,SME,52350.8,82
+INV_0932,"Dec 03, 2025",Tax Advisory,North America,SME,37775.34,10
+INV_0933,04/05/2025,Tax Advisory,APAC,Enterprise,41616.44,37
+INV_0934,2025-08-05,financial advisory,North America,Government,12534.25,54
+INV_0935,2025-02-26,Risk Advisory,APAC,SME,22840.21,10
+INV_0936,2025-05-30,Audit & Assurance,EMEA,SME,8168.11,53
+INV_0937,22/12/2025,Consulting,LATAM,Government,61548.38,43
+INV_0938,2024-07-10,tax advisory,APAC,Government,12443.15,68
+INV_0939,2024-01-19,risk advisory,EMEA,Government,38398.39,88
+INV_0940,"Feb 18, 2025",Financial Advisory,APAC,Government,52166.22,88
+INV_0941,22/11/2025,consulting,EMEA,Enterprise,18356.15,104
+INV_0942,"Jan 17, 2024",Tax Advisory,EMEA,Government,21924.62,107
+INV_0943,"Oct 03, 2025",tax advisory,LATAM,Enterprise,38179.24,2
+INV_0944,2024-04-29,Tax Advisory,LATAM,SME,6373.94,57
+INV_0945,2025-08-22,Tax Advisory,LATAM,Enterprise,28369.5,13
+INV_0946,"Oct 07, 2025",Risk Advisory,APAC,Enterprise,39124.76,62
+INV_0947,"Jun 09, 2025",Financial Advisory,LATAM,Enterprise,55000.32,67
+INV_0948,20/01/2024,FINANCIAL ADVISORY,LATAM,SME,13185.85,79
+INV_0949,23/10/2025,RISK ADVISORY,APAC,Government,18454.09,44
+INV_0950,2025-03-24,Financial Advisory,APAC,Government,64741.77,91
+INV_0951,03/11/2025,Tax Advisory,LATAM,SME,63315.65,86
+INV_0952,"Oct 30, 2025",Consulting,EMEA,Government,19504.6,88
+INV_0953,"Mar 29, 2024",risk advisory,EMEA,Enterprise,47402.43,12
+INV_0954,01/03/2025,Consulting,North America,SME,66663.43,45
+INV_0955,2025-11-24,Tax Advisory,North America,Enterprise,28641.43,14
+INV_0956,2025-09-24,Audit & Assurance,APAC,SME,58856.17,98
+INV_0957,24/07/2025,Tax Advisory,North America,Government,8529.54,56
+INV_0958,2025-04-13,Audit & Assurance,North America,Government,7937.86,13
+INV_0959,"Jun 20, 2024",Audit & Assurance,EMEA,Government,25448.61,56
+INV_0960,02/06/2025,audit & assurance,APAC,SME,62341.25,15
+INV_0961,25/07/2024,RISK ADVISORY,LATAM,SME,25073.08,21
+INV_0962,28/03/2024,Consulting,EMEA,Enterprise,57724.44,67
+INV_0963,2025-03-07,Tax Advisory,LATAM,SME,71628.84,66
+INV_0964,29/11/2025,Audit & Assurance,North America,Enterprise,28681.25,51
+INV_0965,17/06/2024,AUDIT & ASSURANCE,EMEA,Government,9046.69,80
+INV_0966,"Dec 31, 2025",Financial Advisory,APAC,Government,56988.83,44
+INV_0967,09/01/2024,FINANCIAL ADVISORY,LATAM,SME,50071.55,113
+INV_0968,"Jul 11, 2025",Financial Advisory,LATAM,Enterprise,66668.23,10
+INV_0969,"Feb 07, 2024",Consulting,EMEA,Government,74434.68,36
+INV_0970,2024-08-06,Financial Advisory,EMEA,Enterprise,6952.39,101
+INV_0971,"Jul 06, 2025",Consulting,LATAM,Government,12730.93,7
+INV_0972,16/01/2025,FINANCIAL ADVISORY,North America,SME,25857.28,94
+INV_0973,06/01/2024,Consulting,EMEA,SME,25944.11,85
+INV_0974,"Aug 09, 2025",Tax Advisory,EMEA,Enterprise,27949.29,74
+INV_0975,16/07/2024,risk advisory,LATAM,SME,10736.3,7
+INV_0976,2025-03-11,RISK ADVISORY,LATAM,Government,44127.79,99
+INV_0977,08/02/2025,Financial Advisory,LATAM,Government,70172.49,62
+INV_0978,2025-03-02,Tax Advisory,LATAM,Enterprise,72762.23,65
+INV_0979,2025-06-25,TAX ADVISORY,EMEA,Government,30853.24,15
+INV_0980,08/09/2025,audit & assurance,APAC,Enterprise,41594.42,15
+INV_0981,15/01/2025,Consulting,EMEA,Enterprise,59865.48,53
+INV_0982,19/02/2024,Consulting,LATAM,Enterprise,13562.95,44
+INV_0983,2024-03-10,Risk Advisory,LATAM,SME,59694.45,60
+INV_0984,2025-09-12,Tax Advisory,LATAM,Government,36435.23,110
+INV_0985,2024-11-29,Financial Advisory,EMEA,SME,28729.85,5
+INV_0986,17/11/2025,Consulting,North America,Government,49107.64,98
+INV_0987,25/12/2025,Financial Advisory,North America,Enterprise,71861.78,69
+INV_0988,2025-08-13,Financial Advisory,North America,Enterprise,51077.81,68
+INV_0989,2024-07-03,Consulting,LATAM,Enterprise,61484.47,77
+INV_0990,24/11/2024,financial advisory,North America,SME,35591.22,53
+INV_0991,"Jan 25, 2024",CONSULTING,North America,Government,16770.92,18
+INV_0992,06/07/2024,audit & assurance,LATAM,Government,16843.37,78
+INV_0993,2024-11-29,Audit & Assurance,North America,SME,14972.24,114
+INV_0994,27/11/2024,Risk Advisory,North America,Enterprise,21773.61,76
+INV_0995,2025-08-23,Risk Advisory,North America,SME,9244.24,59
+INV_0996,20/07/2025,Audit & Assurance,EMEA,Enterprise,23841.18,75
+INV_0997,2025-11-22,Tax Advisory,EMEA,SME,44777.19,57
+INV_0998,"Mar 26, 2024",Financial Advisory,APAC,Government,73971.61,100
+INV_0999,"Sep 08, 2024",Risk Advisory,North America,Enterprise,61885.06,106
+INV_1000,27/09/2025,tax advisory,LATAM,SME,46850.74,107
+INV_1001,27/11/2025,Consulting,APAC,Enterprise,16299.14,68
+INV_1002,2025-07-30,consulting,North America,Enterprise,55755.16,35
+INV_1003,2025-03-18,Financial Advisory,APAC,Government,23295.24,96
+INV_1004,25/12/2025,Consulting,APAC,Enterprise,37185.95,76
+INV_1005,2024-12-02,TAX ADVISORY,LATAM,Enterprise,68101.15,86
+INV_1006,26/06/2024,Financial Advisory,LATAM,Government,10680.42,112
+INV_1007,"Oct 26, 2025",Audit & Assurance,LATAM,Government,13639.09,104
+INV_1008,"Jan 20, 2025",Consulting,North America,Enterprise,37388.48,24
+INV_1009,2025-03-31,Tax Advisory,APAC,Enterprise,11297.66,78
+INV_1010,02/10/2025,Tax Advisory,APAC,Enterprise,24652.95,115
+INV_1011,"Dec 21, 2025",FINANCIAL ADVISORY,LATAM,Enterprise,65894.14,72
+INV_1012,27/05/2025,Tax Advisory,EMEA,Enterprise,46171.52,95
+INV_1013,2024-03-07,Consulting,APAC,Enterprise,64336.7,2
+INV_1014,"Dec 10, 2025",Financial Advisory,LATAM,Enterprise,70652.33,82
+INV_1015,"Nov 20, 2025",Audit & Assurance,LATAM,SME,13520.24,66
+INV_1016,22/04/2025,CONSULTING,EMEA,Enterprise,24455.31,53
+INV_1017,29/06/2025,consulting,EMEA,SME,10726.62,73
+INV_1018,"Jan 26, 2024",Tax Advisory,North America,Enterprise,18781.38,42
+INV_1019,2024-11-14,audit & assurance,LATAM,Enterprise,46477.15,80
+INV_1020,08/12/2024,tax advisory,EMEA,SME,63276.23,105
+INV_1021,"Dec 07, 2024",Tax Advisory,LATAM,Enterprise,48774.41,74
+INV_1022,2024-05-07,Audit & Assurance,North America,Enterprise,9340.16,102
+INV_1023,2025-03-28,Consulting,North America,Government,8905.3,6
+INV_1024,28/10/2024,risk advisory,LATAM,Enterprise,65520.79,100
+INV_1025,"Nov 06, 2025",Audit & Assurance,LATAM,Government,48346.14,43
+INV_1026,"Oct 28, 2025",Audit & Assurance,EMEA,Enterprise,12188.28,76
+INV_1027,2025-12-31,FINANCIAL ADVISORY,EMEA,Government,40622.86,45
+INV_1028,07/03/2025,Financial Advisory,North America,Enterprise,13937.65,74
+INV_1029,"Mar 22, 2025",Consulting,EMEA,Enterprise,37866.66,77
+INV_1030,17/12/2024,Consulting,EMEA,Enterprise,21617.11,104
+INV_1031,2025-07-26,Risk Advisory,EMEA,Enterprise,28908.63,85
+INV_1032,"May 02, 2025",Risk Advisory,APAC,Government,25974.21,42
+INV_1033,2024-06-15,Risk Advisory,LATAM,Enterprise,69396.75,81
+INV_1034,"Aug 16, 2024",Tax Advisory,LATAM,Government,58784.39,104
+INV_1035,"Dec 05, 2024",RISK ADVISORY,North America,SME,5692.45,45
+INV_1036,"Jan 31, 2024",audit & assurance,LATAM,Enterprise,49193.42,97
+INV_1037,2025-01-03,audit & assurance,APAC,Enterprise,20326.15,33
+INV_1038,27/06/2024,FINANCIAL ADVISORY,EMEA,SME,68745.43,2
+INV_1039,2025-11-24,Risk Advisory,APAC,Enterprise,26355.07,30
+INV_1040,13/01/2025,Tax Advisory,LATAM,Government,9576.43,18
+INV_1041,2024-05-13,Tax Advisory,APAC,Government,35067.81,81
+INV_1042,2024-09-07,Financial Advisory,APAC,Enterprise,27937.64,6
+INV_1043,06/10/2025,Tax Advisory,LATAM,Enterprise,55910.9,100
+INV_1044,"Apr 26, 2025",financial advisory,LATAM,Government,57579.54,47
+INV_1045,"May 25, 2025",risk advisory,APAC,Government,53615.68,91
+INV_1046,21/05/2025,Consulting,North America,Enterprise,20366.84,25
+INV_1047,2025-04-07,Risk Advisory,LATAM,Government,16004.65,107
+INV_1048,18/01/2025,financial advisory,North America,SME,36115.37,45
+INV_1049,"Aug 23, 2024",Audit & Assurance,LATAM,SME,37728.57,52
+INV_1050,11/01/2025,CONSULTING,LATAM,Enterprise,23593.74,9
+INV_1051,2025-01-02,Consulting,North America,SME,69862.41,12
+INV_1052,2024-05-01,consulting,EMEA,SME,18765.24,42
+INV_1053,13/09/2024,consulting,EMEA,Government,56787.47,33
+INV_1054,09/01/2024,Consulting,LATAM,SME,62530.29,96
+INV_1055,2025-11-02,Risk Advisory,EMEA,SME,20930.49,92
+INV_1056,02/08/2024,Tax Advisory,LATAM,Government,62007.84,43
+INV_1057,28/03/2024,Tax Advisory,LATAM,Enterprise,35707.66,109
+INV_1058,2025-07-25,consulting,EMEA,SME,71034.78,1
+INV_1059,"May 26, 2025",Consulting,LATAM,Government,42632.28,41
+INV_1060,2025-08-24,Financial Advisory,EMEA,SME,44773.36,102
+INV_1061,"Sep 09, 2025",Financial Advisory,EMEA,SME,9459.65,49
+INV_1062,11/07/2024,Audit & Assurance,APAC,Enterprise,16999.66,86
+INV_1063,2025-07-20,Audit & Assurance,North America,Enterprise,18929.91,49
+INV_1064,2024-10-17,Tax Advisory,LATAM,Enterprise,30805.66,1
+INV_1065,24/06/2024,Risk Advisory,EMEA,Government,34288.92,95
+INV_1066,11/03/2024,tax advisory,EMEA,SME,35254.05,90
+INV_1067,11/11/2025,Tax Advisory,EMEA,Government,55174.04,58
+INV_1068,2024-10-09,Audit & Assurance,LATAM,Government,61529.61,67
+INV_1069,"Dec 02, 2024",Risk Advisory,North America,SME,50240.94,58
+INV_1070,"Dec 21, 2024",Consulting,EMEA,SME,22439.44,115
+INV_1071,"Sep 24, 2025",Risk Advisory,EMEA,Government,44803.07,50
+INV_1072,2025-12-16,TAX ADVISORY,APAC,Government,69140.74,89
+INV_1073,10/08/2024,Risk Advisory,APAC,Enterprise,57877.78,64
+INV_1074,29/11/2024,risk advisory,EMEA,Government,8124.46,3
+INV_1075,"Mar 15, 2024",Risk Advisory,EMEA,SME,7644.23,32
+INV_1076,"Apr 27, 2024",Tax Advisory,LATAM,SME,9776.6,70
+INV_1077,2025-11-03,risk advisory,APAC,Enterprise,16941.24,2
+INV_1078,2025-09-13,Tax Advisory,LATAM,Enterprise,10430.97,97
+INV_1079,"Jan 12, 2024",consulting,APAC,Enterprise,20167.07,4
+INV_1080,"Nov 22, 2025",TAX ADVISORY,North America,SME,53324.27,56
+INV_1081,"Feb 23, 2024",audit & assurance,LATAM,Enterprise,70017.44,47
+INV_1082,2024-09-01,audit & assurance,North America,Enterprise,28598.16,24
+INV_1083,"Nov 27, 2025",Audit & Assurance,EMEA,Government,16693.31,53
+INV_1084,2025-06-08,Consulting,EMEA,Government,32654.47,54
+INV_1085,2024-05-03,tax advisory,APAC,Enterprise,6049.62,83
+INV_1086,2024-11-19,Risk Advisory,APAC,Government,48673.66,5
+INV_1087,2024-03-09,Risk Advisory,North America,Government,42532.71,108
+INV_1088,2025-08-05,Consulting,LATAM,Government,69718.74,98
+INV_1089,2025-12-11,consulting,APAC,Government,38749.13,42
+INV_1090,"Jan 19, 2024",Financial Advisory,EMEA,Government,46122.8,1
+INV_1091,2024-08-26,FINANCIAL ADVISORY,EMEA,Government,34994.85,31
+INV_1092,2025-09-26,audit & assurance,LATAM,SME,19140.83,48
+INV_1093,"Jul 28, 2024",Audit & Assurance,LATAM,Government,66413.23,17
+INV_1094,11/10/2024,Audit & Assurance,APAC,Enterprise,21030.7,93
+INV_1095,05/12/2024,TAX ADVISORY,EMEA,Government,53739.46,28
+INV_1096,14/09/2025,Financial Advisory,North America,Enterprise,65890.67,8
+INV_1097,2024-07-16,TAX ADVISORY,EMEA,Government,43419.3,101
+INV_1098,2024-07-28,financial advisory,LATAM,SME,16491.12,25
+INV_1099,07/09/2024,Tax Advisory,LATAM,Government,19098.07,110
+INV_1100,2025-05-07,CONSULTING,LATAM,SME,40370.48,94
+INV_1101,2025-03-19,risk advisory,LATAM,SME,64782.95,97
+INV_1102,"Nov 03, 2024",financial advisory,EMEA,SME,31631.52,39
+INV_1103,09/04/2025,Risk Advisory,APAC,Enterprise,55040.44,25
+INV_1104,2024-06-07,audit & assurance,APAC,SME,33318.87,53
+INV_1105,"Feb 08, 2025",Consulting,North America,SME,66949.97,15
+INV_1106,"Jan 29, 2025",tax advisory,LATAM,SME,58988.93,96
+INV_1107,"Dec 22, 2024",Risk Advisory,North America,Government,31973.32,54
+INV_1108,2024-09-09,risk advisory,APAC,Government,54459.13,3
+INV_1109,"Dec 15, 2025",Tax Advisory,EMEA,SME,22319.04,74
+INV_1110,2025-11-09,audit & assurance,North America,Government,54812.66,49
+INV_1111,"Feb 11, 2025",FINANCIAL ADVISORY,EMEA,SME,16607.65,54
+INV_1112,"Sep 15, 2024",Consulting,LATAM,Government,26558.52,52
+INV_1113,2024-04-01,Financial Advisory,EMEA,SME,57411.11,95
+INV_1114,"Feb 11, 2025",consulting,EMEA,SME,5110.5,8
+INV_1115,14/12/2025,Financial Advisory,LATAM,Enterprise,17348.09,23
+INV_1116,2025-12-21,Tax Advisory,North America,SME,44696.45,27
+INV_1117,2024-07-09,Audit & Assurance,EMEA,SME,73806.3,111
+INV_1118,22/02/2025,financial advisory,EMEA,Enterprise,25518.79,48
+INV_1119,07/05/2024,Audit & Assurance,LATAM,SME,52096.32,12
+INV_1120,2024-01-10,CONSULTING,North America,Enterprise,19774.79,101
+INV_1121,08/01/2024,Financial Advisory,APAC,SME,38126.22,43
+INV_1122,10/09/2025,Consulting,APAC,Enterprise,70869.37,85
+INV_1123,12/02/2025,financial advisory,APAC,SME,61438.91,0
+INV_1124,"Apr 12, 2025",Risk Advisory,EMEA,Enterprise,47133.64,111
+INV_1125,27/06/2025,Tax Advisory,LATAM,Government,33918.86,24
+INV_1126,"Jan 04, 2024",consulting,APAC,Enterprise,72871.83,94
+INV_1127,"Nov 29, 2024",Risk Advisory,North America,SME,34954.14,60
+INV_1128,"Nov 05, 2025",Audit & Assurance,EMEA,Government,15021.3,66
+INV_1129,"Aug 08, 2025",financial advisory,LATAM,Enterprise,26094.38,86
+INV_1130,15/07/2025,Tax Advisory,LATAM,Government,42846.75,31
+INV_1131,2024-08-04,audit & assurance,North America,Enterprise,70030.24,41
+INV_1132,27/01/2025,Tax Advisory,North America,Government,14502.95,68
+INV_1133,"Oct 10, 2025",risk advisory,APAC,Enterprise,70224.6,98
+INV_1134,2025-09-07,Consulting,LATAM,Government,49947.15,71
+INV_1135,2025-03-23,Tax Advisory,North America,Enterprise,28816.65,75
+INV_1136,"Jul 11, 2024",AUDIT & ASSURANCE,APAC,SME,45384.18,0
+INV_1137,2024-11-14,Financial Advisory,LATAM,SME,58989.66,102
+INV_1138,2025-11-26,Financial Advisory,North America,SME,5643.2,109
+INV_1139,16/04/2025,Tax Advisory,EMEA,SME,52598.66,18
+INV_1140,07/09/2025,Tax Advisory,North America,Government,27409.76,64
+INV_1141,2025-12-06,Consulting,LATAM,Government,63008.11,63
+INV_1142,"Oct 25, 2024",risk advisory,APAC,Enterprise,62951.93,26
+INV_1143,"Aug 18, 2024",Audit & Assurance,LATAM,Government,32426.55,104
+INV_1144,2025-11-06,Audit & Assurance,LATAM,SME,58039.99,50
+INV_1145,"Mar 14, 2024",Consulting,LATAM,Enterprise,14163.05,96
+INV_1146,2025-08-17,CONSULTING,EMEA,SME,53716.89,37
+INV_1147,2024-05-28,TAX ADVISORY,North America,SME,55817.03,73
+INV_1148,"Apr 14, 2024",Tax Advisory,EMEA,Enterprise,11723.34,60
+INV_1149,2024-07-02,Audit & Assurance,LATAM,Enterprise,48888.08,51
+INV_1150,2024-09-07,Audit & Assurance,EMEA,Government,57164.02,99
+INV_1151,"Dec 09, 2025",Audit & Assurance,LATAM,SME,49263.35,56
+INV_1152,2025-01-11,audit & assurance,North America,SME,49898.65,65
+INV_1153,2024-08-18,Financial Advisory,APAC,Government,57175.15,101
+INV_1154,2025-08-30,Risk Advisory,LATAM,SME,44999.62,12
+INV_1155,2024-11-29,financial advisory,North America,SME,43924.21,68
+INV_1156,26/06/2025,Audit & Assurance,North America,Enterprise,72597.67,114
+INV_1157,2024-04-30,FINANCIAL ADVISORY,LATAM,SME,13613.17,16
+INV_1158,2025-08-11,tax advisory,APAC,Enterprise,10922.72,15
+INV_1159,02/06/2025,CONSULTING,North America,Enterprise,26042.0,66
+INV_1160,"Oct 27, 2024",Financial Advisory,APAC,Government,68754.82,45
+INV_1161,"Sep 12, 2025",FINANCIAL ADVISORY,North America,Enterprise,7571.38,18
+INV_1162,2024-11-02,Tax Advisory,APAC,SME,13994.45,79
+INV_1163,2025-03-08,Financial Advisory,EMEA,SME,36924.74,32
+INV_1164,23/11/2025,TAX ADVISORY,APAC,Government,53776.21,24
+INV_1165,"Jan 16, 2025",Financial Advisory,EMEA,SME,74471.43,55
+INV_1166,2025-01-23,Financial Advisory,North America,Government,43385.81,8
+INV_1167,"Dec 03, 2024",Audit & Assurance,APAC,Enterprise,65819.88,28
+INV_1168,2024-10-07,Audit & Assurance,LATAM,Enterprise,59791.35,15
+INV_1169,"Jun 28, 2024",Consulting,North America,Government,29423.01,73
+INV_1170,"Oct 15, 2024",Consulting,EMEA,SME,71255.72,49
+INV_1171,04/07/2024,Financial Advisory,LATAM,SME,46461.71,33
+INV_1172,"Jan 10, 2024",Financial Advisory,EMEA,SME,44729.25,34
+INV_1173,"Feb 24, 2024",Consulting,LATAM,Government,37045.06,56
+INV_1174,28/12/2024,Financial Advisory,EMEA,SME,49494.47,11
+INV_1175,08/11/2024,Consulting,North America,Government,21802.57,11
+INV_1176,"Jun 18, 2024",audit & assurance,APAC,Government,70071.23,103
+INV_1177,11/01/2024,FINANCIAL ADVISORY,LATAM,Government,52958.53,86
+INV_1178,"Jun 29, 2025",Audit & Assurance,North America,Government,34748.52,68
+INV_1179,2024-12-19,FINANCIAL ADVISORY,LATAM,Enterprise,52216.55,112
+INV_1180,2025-06-20,tax advisory,EMEA,Government,29730.41,6
+INV_1181,08/03/2025,risk advisory,North America,SME,68983.16,31
+INV_1182,2025-07-06,Consulting,EMEA,Enterprise,56661.8,72
+INV_1183,2025-02-07,Consulting,North America,SME,67474.57,108
+INV_1184,2025-05-14,consulting,LATAM,SME,25884.55,13
+INV_1185,06/01/2024,TAX ADVISORY,LATAM,SME,18828.11,67
+INV_1186,2025-06-10,risk advisory,LATAM,Enterprise,15894.13,84
+INV_1187,2024-09-13,Risk Advisory,LATAM,Enterprise,42549.92,34
+INV_1188,21/04/2024,risk advisory,APAC,Government,35377.21,45
+INV_1189,2025-12-27,audit & assurance,North America,Enterprise,32618.22,95
+INV_1190,2024-12-05,Tax Advisory,APAC,Enterprise,34476.67,70
+INV_1191,"May 22, 2025",Tax Advisory,LATAM,Government,55819.62,94
+INV_1192,2025-02-02,Audit & Assurance,EMEA,Enterprise,29088.44,1
+INV_1193,2025-12-01,Audit & Assurance,North America,SME,38613.51,36
+INV_1194,2025-05-12,RISK ADVISORY,EMEA,Enterprise,24679.72,14
+INV_1195,"Sep 26, 2024",Tax Advisory,LATAM,Government,59790.18,13
+INV_1196,"Dec 18, 2025",FINANCIAL ADVISORY,EMEA,Enterprise,13432.28,51
+INV_1197,09/02/2024,Tax Advisory,EMEA,Enterprise,65504.51,48
+INV_1198,"Feb 21, 2025",Consulting,EMEA,SME,34825.31,7
+INV_1199,06/06/2025,Audit & Assurance,APAC,SME,54810.99,31
+INV_1200,2024-11-23,tax advisory,North America,Government,57132.83,27
+INV_1201,19/10/2024,CONSULTING,EMEA,SME,71382.97,46
+INV_1202,08/12/2024,audit & assurance,North America,Government,43623.78,110
+INV_1203,13/05/2024,Consulting,APAC,Enterprise,50517.38,26
+INV_1204,21/08/2025,AUDIT & ASSURANCE,North America,Enterprise,46059.3,113
+INV_1205,2025-11-01,Tax Advisory,North America,Government,48330.73,38
+INV_1206,2025-04-30,FINANCIAL ADVISORY,EMEA,SME,43534.7,32
+INV_1207,27/07/2025,Consulting,LATAM,Enterprise,38797.44,67
+INV_1208,2025-05-30,Tax Advisory,EMEA,SME,8181.17,72
+INV_1209,"Mar 03, 2024",Tax Advisory,North America,Enterprise,35642.15,65
+INV_1210,"Jan 28, 2025",Risk Advisory,EMEA,Enterprise,16200.21,27
+INV_1211,"Aug 29, 2025",Audit & Assurance,LATAM,Government,54542.78,67
+INV_1212,22/09/2024,Tax Advisory,North America,Enterprise,20675.06,68
+INV_1213,31/08/2024,Audit & Assurance,APAC,Enterprise,23930.44,101
+INV_1214,"Feb 22, 2024",Tax Advisory,North America,Enterprise,50405.19,80
+INV_1215,11/09/2025,consulting,APAC,Government,14352.81,114
+INV_1216,18/09/2025,Consulting,North America,SME,20349.57,35
+INV_1217,29/06/2024,Audit & Assurance,North America,Government,57203.89,48
+INV_1218,31/10/2025,Financial Advisory,EMEA,SME,23815.55,74
+INV_1219,06/10/2025,Tax Advisory,LATAM,SME,15383.39,61
+INV_1220,05/04/2024,Tax Advisory,EMEA,Enterprise,44876.06,93
+INV_1221,"Jul 03, 2024",consulting,EMEA,Enterprise,62224.94,87
+INV_1222,2025-09-14,audit & assurance,LATAM,Enterprise,36851.69,82
+INV_1223,2025-02-16,financial advisory,North America,Government,11981.1,49
+INV_1224,2024-01-22,Audit & Assurance,North America,Enterprise,22384.01,10
+INV_1225,2024-10-01,financial advisory,North America,Enterprise,42965.91,104
+INV_1226,"Dec 12, 2024",Audit & Assurance,LATAM,Enterprise,26516.95,61
+INV_1227,2024-06-07,Audit & Assurance,North America,Enterprise,62744.74,13
+INV_1228,11/07/2025,Audit & Assurance,EMEA,Enterprise,68851.69,3
+INV_1229,20/08/2024,risk advisory,APAC,Enterprise,69518.36,87
+INV_1230,"Jan 28, 2025",Audit & Assurance,EMEA,Enterprise,71952.65,36
+INV_1231,2024-12-31,Financial Advisory,North America,Enterprise,47315.45,22
+INV_1232,"Mar 14, 2025",Consulting,EMEA,Government,53101.25,79
+INV_1233,20/10/2024,Audit & Assurance,APAC,SME,61750.36,91
+INV_1234,2024-03-19,TAX ADVISORY,EMEA,SME,36268.68,101
+INV_1235,2025-05-04,Audit & Assurance,APAC,Enterprise,11331.29,16
+INV_1236,05/07/2024,Consulting,LATAM,Government,60545.11,42
+INV_1237,"May 21, 2024",Tax Advisory,LATAM,Government,42534.88,29
+INV_1238,2025-01-28,Financial Advisory,EMEA,Government,11107.52,46
+INV_1239,2024-01-03,Audit & Assurance,EMEA,Enterprise,9170.42,44
+INV_1240,2025-01-04,Consulting,LATAM,Enterprise,19751.62,28
+INV_1241,"Feb 27, 2024",tax advisory,EMEA,SME,56315.71,89
+INV_1242,10/03/2025,Audit & Assurance,North America,SME,63620.6,111
+INV_1243,2024-06-10,TAX ADVISORY,North America,Enterprise,44842.82,104
+INV_1244,2025-03-02,TAX ADVISORY,APAC,SME,33806.57,43
+INV_1245,"Mar 30, 2025",AUDIT & ASSURANCE,North America,Government,57579.31,64
+INV_1246,2024-06-13,Risk Advisory,LATAM,Government,54798.47,33
+INV_1247,"Aug 08, 2025",Consulting,EMEA,SME,73118.56,66
+INV_1248,2025-01-21,TAX ADVISORY,LATAM,Enterprise,62575.35,71
+INV_1249,2025-09-11,Risk Advisory,LATAM,SME,16537.71,102
+INV_1250,"Jan 15, 2025",risk advisory,North America,Enterprise,10446.6,77
+INV_1251,2024-12-09,Tax Advisory,North America,Enterprise,46797.75,96
+INV_1252,2024-11-12,Financial Advisory,EMEA,SME,10952.75,72
+INV_1253,2025-08-01,Financial Advisory,North America,SME,11524.77,39
+INV_1254,09/01/2024,Consulting,APAC,SME,55798.17,16
+INV_1255,"Dec 20, 2025",Audit & Assurance,North America,Government,61524.6,19
+INV_1256,"Jan 25, 2024",Risk Advisory,North America,SME,16285.61,87
+INV_1257,2025-04-19,Audit & Assurance,EMEA,Government,50795.41,98
+INV_1258,"Jun 13, 2024",Financial Advisory,APAC,SME,59974.63,43
+INV_1259,24/10/2024,Financial Advisory,LATAM,Enterprise,19617.44,78
+INV_1260,2025-09-13,Tax Advisory,North America,Enterprise,14983.58,111
+INV_1261,"Nov 12, 2024",Audit & Assurance,EMEA,SME,16303.07,35
+INV_1262,13/08/2025,consulting,EMEA,Government,59035.84,33
+INV_1263,29/04/2025,RISK ADVISORY,North America,Government,39178.13,46
+INV_1264,20/10/2024,Risk Advisory,EMEA,SME,30671.26,108
+INV_1265,01/10/2025,consulting,LATAM,Government,36506.46,112
+INV_1266,2025-11-29,FINANCIAL ADVISORY,EMEA,Government,62486.45,1
+INV_1267,2024-06-07,Consulting,North America,Enterprise,32175.61,59
+INV_1268,2025-11-16,Consulting,LATAM,Enterprise,11007.58,93
+INV_1269,20/04/2024,risk advisory,APAC,Enterprise,27209.94,77
+INV_1270,2025-05-12,risk advisory,LATAM,Enterprise,43155.69,60
+INV_1271,"May 29, 2024",TAX ADVISORY,LATAM,Enterprise,70552.18,46
+INV_1272,16/03/2025,tax advisory,North America,Government,34604.42,32
+INV_1273,2025-10-12,audit & assurance,APAC,SME,10719.64,111
+INV_1274,30/12/2025,Risk Advisory,APAC,Enterprise,63138.44,11
+INV_1275,14/03/2025,consulting,APAC,SME,38713.77,68
+INV_1276,2025-12-06,Risk Advisory,LATAM,Enterprise,44263.59,114
+INV_1277,2025-09-03,Audit & Assurance,EMEA,SME,51484.41,105
+INV_1278,2024-11-20,Tax Advisory,LATAM,SME,12952.48,86
+INV_1279,20/02/2025,Financial Advisory,EMEA,Government,36453.01,74
+INV_1280,2024-04-09,TAX ADVISORY,EMEA,Government,31428.96,44
+INV_1281,2024-08-02,Financial Advisory,APAC,Enterprise,26136.11,39
+INV_1282,2025-05-29,Risk Advisory,LATAM,SME,29654.79,69
+INV_1283,"Mar 12, 2025",consulting,EMEA,SME,34986.85,22
+INV_1284,"Jul 20, 2025",Tax Advisory,LATAM,Government,24827.39,79
+INV_1285,2024-04-11,audit & assurance,North America,Government,70274.77,13
+INV_1286,"May 23, 2025",FINANCIAL ADVISORY,LATAM,Government,45686.35,4
+INV_1287,14/11/2025,Risk Advisory,LATAM,Enterprise,18689.22,60
+INV_1288,07/05/2024,Risk Advisory,LATAM,Enterprise,70773.18,100
+INV_1289,"Aug 17, 2024",Consulting,APAC,SME,52131.06,0
+INV_1290,2025-02-28,audit & assurance,APAC,Government,62402.41,76
+INV_1291,21/11/2024,Tax Advisory,EMEA,Government,73144.32,24
+INV_1292,"Sep 23, 2025",Risk Advisory,LATAM,Enterprise,70757.42,49
+INV_1293,26/06/2024,Consulting,North America,Government,61082.04,64
+INV_1294,"May 01, 2024",Financial Advisory,APAC,Government,16133.72,41
+INV_1295,2024-07-27,audit & assurance,North America,Government,58902.26,19
+INV_1296,"Jan 29, 2024",FINANCIAL ADVISORY,LATAM,Enterprise,56963.77,16
+INV_1297,"Apr 09, 2025",consulting,EMEA,SME,18568.02,107
+INV_1298,"Sep 08, 2024",Risk Advisory,APAC,Enterprise,70448.31,80
+INV_1299,"Jan 24, 2024",FINANCIAL ADVISORY,North America,Enterprise,14928.48,33
+INV_1300,2024-07-03,Audit & Assurance,EMEA,SME,12047.02,101
+INV_1301,23/01/2024,Audit & Assurance,EMEA,Government,34393.5,113
+INV_1302,"Nov 17, 2024",RISK ADVISORY,North America,Enterprise,51176.65,80
+INV_1303,2025-09-13,Audit & Assurance,LATAM,Government,46999.5,0
+INV_1304,"Jun 11, 2024",CONSULTING,North America,Government,6612.67,65
+INV_1305,2024-06-05,consulting,EMEA,Enterprise,27927.78,28
+INV_1306,"Mar 26, 2024",Tax Advisory,North America,SME,54565.85,83
+INV_1307,28/10/2024,Risk Advisory,EMEA,SME,17107.17,87
+INV_1308,14/10/2024,Audit & Assurance,APAC,Enterprise,60586.97,92
+INV_1309,14/05/2025,Risk Advisory,APAC,Government,12529.14,49
+INV_1310,2025-03-15,Financial Advisory,North America,SME,16707.43,4
+INV_1311,07/06/2025,Financial Advisory,APAC,SME,7095.8,23
+INV_1312,26/11/2024,TAX ADVISORY,APAC,SME,15152.78,40
+INV_1313,2024-05-05,Consulting,EMEA,SME,44722.85,41
+INV_1314,"Aug 26, 2024",Audit & Assurance,EMEA,Enterprise,44267.11,91
+INV_1315,"Sep 14, 2025",Audit & Assurance,LATAM,SME,61937.61,25
+INV_1316,2024-07-20,Risk Advisory,LATAM,Enterprise,13686.49,21
+INV_1317,07/09/2025,Financial Advisory,APAC,Enterprise,50056.66,109
+INV_1318,2025-08-12,Risk Advisory,LATAM,Enterprise,67708.07,67
+INV_1319,10/02/2024,audit & assurance,North America,SME,55627.76,35
+INV_1320,20/11/2024,risk advisory,APAC,SME,47862.45,50
+INV_1321,"Nov 01, 2024",Risk Advisory,North America,SME,70639.26,13
+INV_1322,2024-01-30,AUDIT & ASSURANCE,APAC,Government,55697.74,28
+INV_1323,2024-06-23,Tax Advisory,North America,Government,65761.04,33
+INV_1324,2024-02-14,AUDIT & ASSURANCE,APAC,Government,47892.54,103
+INV_1325,23/01/2025,Tax Advisory,North America,Enterprise,27353.29,18
+INV_1326,21/08/2025,Risk Advisory,EMEA,Government,38454.88,62
+INV_1327,14/10/2024,Risk Advisory,APAC,Government,10795.6,71
+INV_1328,"Sep 05, 2024",TAX ADVISORY,LATAM,Enterprise,19873.28,85
+INV_1329,09/08/2024,risk advisory,North America,SME,19606.3,75
+INV_1330,"Jun 24, 2025",Consulting,LATAM,Government,15779.92,64
+INV_1331,2024-04-18,Tax Advisory,LATAM,Government,40942.48,99
+INV_1332,2025-02-13,AUDIT & ASSURANCE,APAC,Government,50386.81,18
+INV_1333,2025-04-17,Audit & Assurance,EMEA,SME,7001.04,84
+INV_1334,27/06/2025,Consulting,North America,SME,35203.15,19
+INV_1335,"Feb 10, 2025",RISK ADVISORY,APAC,SME,11846.89,83
+INV_1336,"Jan 26, 2025",risk advisory,EMEA,SME,17365.16,35
+INV_1337,"Jun 26, 2025",RISK ADVISORY,North America,Government,22426.1,14
+INV_1338,2024-08-12,Audit & Assurance,EMEA,Enterprise,42249.22,35
+INV_1339,"Aug 19, 2024",RISK ADVISORY,APAC,SME,19399.38,100
+INV_1340,27/07/2024,Consulting,North America,Enterprise,17955.52,89
+INV_1341,29/09/2025,Consulting,EMEA,SME,52700.97,21
+INV_1342,10/07/2024,risk advisory,North America,Government,38222.05,42
+INV_1343,2024-01-22,CONSULTING,North America,Government,29650.06,60
+INV_1344,2025-08-20,Risk Advisory,North America,Enterprise,44708.67,37
+INV_1345,"Aug 21, 2024",financial advisory,EMEA,Enterprise,11999.47,102
+INV_1346,09/12/2024,Risk Advisory,APAC,Government,39054.53,46
+INV_1347,2025-04-14,Consulting,LATAM,Enterprise,23895.62,66
+INV_1348,2025-10-17,Tax Advisory,EMEA,SME,39848.26,31
+INV_1349,"Aug 14, 2025",Risk Advisory,EMEA,SME,49711.36,35
+INV_1350,"Oct 03, 2025",Financial Advisory,EMEA,SME,68722.91,44
+INV_1351,05/12/2024,Financial Advisory,APAC,Enterprise,7877.0,66
+INV_1352,19/12/2025,financial advisory,LATAM,Government,72770.71,101
+INV_1353,21/12/2024,Audit & Assurance,EMEA,SME,52664.61,66
+INV_1354,"Oct 23, 2024",Financial Advisory,APAC,Enterprise,60984.95,1
+INV_1355,2025-04-09,Tax Advisory,North America,SME,26407.51,55
+INV_1356,"Dec 26, 2024",audit & assurance,EMEA,SME,66510.55,100
+INV_1357,"May 29, 2025",financial advisory,North America,Government,23946.82,93
+INV_1358,20/07/2024,Financial Advisory,North America,SME,70305.43,31
+INV_1359,"Nov 25, 2025",Risk Advisory,North America,SME,69413.59,76
+INV_1360,2024-11-14,Financial Advisory,EMEA,Government,58736.23,32
+INV_1361,18/05/2024,financial advisory,APAC,Enterprise,25813.39,80
+INV_1362,"Apr 17, 2025",Tax Advisory,LATAM,Enterprise,14702.69,56
+INV_1363,11/12/2025,Financial Advisory,LATAM,SME,34936.84,53
+INV_1364,24/02/2025,AUDIT & ASSURANCE,LATAM,Enterprise,57909.95,78
+INV_1365,2024-11-05,FINANCIAL ADVISORY,APAC,Enterprise,57873.46,50
+INV_1366,08/05/2024,Audit & Assurance,LATAM,Enterprise,10926.14,34
+INV_1367,2025-10-27,Consulting,LATAM,Government,28191.53,7
+INV_1368,"May 04, 2024",Financial Advisory,North America,Government,19354.51,18
+INV_1369,"Jul 29, 2025",risk advisory,EMEA,SME,48976.76,92
+INV_1370,07/01/2024,FINANCIAL ADVISORY,North America,Enterprise,47265.35,15
+INV_1371,2025-06-16,Tax Advisory,LATAM,SME,8895.72,15
+INV_1372,03/11/2024,Risk Advisory,APAC,Government,52692.43,109
+INV_1373,"Nov 04, 2025",Audit & Assurance,EMEA,Enterprise,62298.51,84
+INV_1374,2024-09-03,Financial Advisory,LATAM,SME,25302.53,85
+INV_1375,"Apr 12, 2024",Risk Advisory,LATAM,Government,60989.86,59
+INV_1376,02/03/2025,tax advisory,LATAM,Enterprise,44494.64,1
+INV_1377,17/08/2025,Audit & Assurance,LATAM,Enterprise,68567.58,45
+INV_1378,22/05/2024,Risk Advisory,APAC,Government,64908.77,64
+INV_1379,03/08/2024,FINANCIAL ADVISORY,EMEA,SME,50915.34,72
+INV_1380,13/12/2024,Tax Advisory,APAC,SME,9774.71,107
+INV_1381,22/10/2025,Risk Advisory,EMEA,Government,54595.01,64
+INV_1382,"Nov 05, 2025",consulting,APAC,Government,71863.62,44
+INV_1383,"Aug 21, 2025",risk advisory,North America,Government,16142.58,12
+INV_1384,2025-11-12,Risk Advisory,EMEA,Government,60692.35,13
+INV_1385,"Jun 27, 2024",Risk Advisory,North America,Enterprise,47833.25,14
+INV_1386,"Feb 08, 2024",Audit & Assurance,North America,Enterprise,27481.15,89
+INV_1387,05/04/2025,Tax Advisory,EMEA,Enterprise,22674.65,56
+INV_1388,26/11/2025,TAX ADVISORY,EMEA,Enterprise,45747.56,80
+INV_1389,2025-11-15,tax advisory,EMEA,Enterprise,30169.27,52
+INV_1390,"Aug 04, 2025",Audit & Assurance,LATAM,Enterprise,63268.2,73
+INV_1391,"Apr 30, 2025",Consulting,EMEA,Enterprise,35721.46,80
+INV_1392,2025-01-20,financial advisory,APAC,Enterprise,13254.92,29
+INV_1393,"Feb 22, 2024",Financial Advisory,APAC,SME,32329.85,45
+INV_1394,2024-03-10,consulting,EMEA,Government,70226.63,64
+INV_1395,15/11/2024,financial advisory,North America,Government,37968.51,33
+INV_1396,2025-10-30,Audit & Assurance,APAC,Enterprise,14750.2,70
+INV_1397,"Dec 03, 2024",AUDIT & ASSURANCE,North America,SME,73673.92,53
+INV_1398,"Sep 04, 2025",Financial Advisory,LATAM,Enterprise,23935.59,5
+INV_1399,2024-04-16,Risk Advisory,LATAM,SME,26239.28,108
+INV_1400,2024-08-21,audit & assurance,EMEA,Government,47569.72,48
+INV_1401,"Nov 29, 2025",AUDIT & ASSURANCE,LATAM,Government,13766.62,89
+INV_1402,"Mar 13, 2025",tax advisory,North America,Government,73777.42,47
+INV_1403,2024-12-26,CONSULTING,EMEA,Enterprise,46203.22,29
+INV_1404,"Feb 26, 2025",Financial Advisory,North America,Government,22494.57,7
+INV_1405,2024-03-19,Tax Advisory,APAC,SME,47169.12,113
+INV_1406,07/09/2024,Tax Advisory,North America,Government,10376.27,32
+INV_1407,2025-07-10,Risk Advisory,EMEA,SME,54919.37,46
+INV_1408,18/07/2025,Tax Advisory,North America,Enterprise,29264.48,52
+INV_1409,"Dec 23, 2025",Risk Advisory,EMEA,Government,21137.51,94
+INV_1410,2025-07-20,Audit & Assurance,EMEA,Enterprise,73453.68,89
+INV_1411,"Mar 26, 2025",RISK ADVISORY,North America,SME,24457.71,49
+INV_1412,2024-11-03,Audit & Assurance,LATAM,Enterprise,65394.1,49
+INV_1413,2025-03-30,TAX ADVISORY,LATAM,Government,8658.18,39
+INV_1414,"Feb 02, 2024",Consulting,APAC,SME,61717.06,75
+INV_1415,2024-08-09,Consulting,LATAM,Government,69999.65,96
+INV_1416,2024-02-28,Financial Advisory,APAC,Government,37445.18,73
+INV_1417,"Aug 04, 2025",consulting,LATAM,SME,57194.37,30
+INV_1418,2024-05-15,Consulting,North America,Enterprise,58993.74,37
+INV_1419,"Dec 11, 2024",risk advisory,APAC,SME,23812.31,32
+INV_1420,"Oct 30, 2025",audit & assurance,APAC,SME,64331.49,56
+INV_1421,2025-04-18,risk advisory,North America,SME,38614.55,108
+INV_1422,2025-07-23,risk advisory,North America,SME,67793.1,70
+INV_1423,2024-11-17,risk advisory,APAC,SME,65833.88,16
+INV_1424,"Aug 20, 2024",tax advisory,North America,Enterprise,13011.26,4
+INV_1425,"Jul 07, 2024",Financial Advisory,North America,Government,55215.04,7
+INV_1426,22/09/2024,Audit & Assurance,APAC,Government,55282.35,76
+INV_1427,28/08/2024,audit & assurance,LATAM,Enterprise,40772.49,30
+INV_1428,27/07/2024,Financial Advisory,LATAM,Enterprise,49932.09,112
+INV_1429,2024-10-16,Audit & Assurance,APAC,SME,67817.46,47
+INV_1430,26/04/2025,financial advisory,APAC,Enterprise,25361.08,19
+INV_1431,2025-08-28,Audit & Assurance,APAC,Enterprise,31518.78,74
+INV_1432,"Feb 03, 2024",Tax Advisory,North America,Enterprise,72103.76,28
+INV_1433,"Aug 01, 2025",Financial Advisory,North America,Government,60874.39,77
+INV_1434,"Apr 28, 2025",Financial Advisory,EMEA,Government,25514.57,31
+INV_1435,2024-12-02,Consulting,North America,Government,21873.25,93
+INV_1436,23/02/2025,Audit & Assurance,APAC,Government,38890.82,29
+INV_1437,04/04/2025,Tax Advisory,EMEA,Government,22146.08,52
+INV_1438,"Nov 21, 2025",Tax Advisory,APAC,SME,13257.48,52
+INV_1439,"Mar 07, 2025",Tax Advisory,EMEA,Enterprise,66348.4,1
+INV_1440,2024-06-19,Risk Advisory,LATAM,Government,12069.68,111
+INV_1441,04/02/2024,Audit & Assurance,EMEA,Government,65681.6,49
+INV_1442,08/03/2025,Tax Advisory,APAC,Enterprise,28576.58,105
+INV_1443,"Dec 10, 2024",Financial Advisory,North America,Enterprise,56712.39,45
+INV_1444,04/04/2025,Risk Advisory,LATAM,Government,14422.39,23
+INV_1445,"Aug 26, 2025",audit & assurance,North America,Government,46513.38,86
+INV_1446,26/10/2025,RISK ADVISORY,APAC,Enterprise,21258.45,63
+INV_1447,2024-12-15,Financial Advisory,LATAM,SME,27596.01,40
+INV_1448,2024-07-01,Audit & Assurance,EMEA,SME,41339.45,73
+INV_1449,22/09/2025,AUDIT & ASSURANCE,APAC,SME,39064.5,28
+INV_1450,22/06/2024,Consulting,EMEA,Government,24504.01,12
+INV_1451,"Jul 30, 2024",FINANCIAL ADVISORY,North America,Government,42654.11,24
+INV_1452,07/01/2024,Audit & Assurance,LATAM,Government,36137.73,16
+INV_1453,09/04/2025,Audit & Assurance,North America,SME,67221.58,63
+INV_1454,2024-09-26,Tax Advisory,North America,SME,61254.88,95
+INV_1455,"Aug 15, 2024",Audit & Assurance,APAC,SME,49143.68,65
+INV_1456,2025-11-19,CONSULTING,North America,Government,60593.82,40
+INV_1457,"Jul 13, 2024",Audit & Assurance,EMEA,Enterprise,46044.04,111
+INV_1458,"Aug 13, 2024",TAX ADVISORY,EMEA,Government,39770.85,16
+INV_1459,"Jul 22, 2024",Audit & Assurance,EMEA,Enterprise,35402.31,62
+INV_1460,"Jul 25, 2025",TAX ADVISORY,APAC,Government,31620.32,74
+INV_1461,"Aug 28, 2024",Consulting,EMEA,SME,63848.43,112
+INV_1462,"Oct 26, 2024",Risk Advisory,APAC,Government,38667.13,12
+INV_1463,2024-08-12,Consulting,EMEA,Government,34740.57,22
+INV_1464,20/04/2025,Audit & Assurance,EMEA,SME,63808.46,110
+INV_1465,"May 15, 2025",RISK ADVISORY,APAC,Government,20057.43,108
+INV_1466,2025-02-22,Financial Advisory,APAC,SME,32396.49,56
+INV_1467,11/03/2025,Consulting,EMEA,SME,49538.63,5
+INV_1468,11/11/2024,Risk Advisory,EMEA,Government,12722.09,78
+INV_1469,17/09/2025,TAX ADVISORY,North America,SME,11317.69,90
+INV_1470,07/12/2024,financial advisory,North America,Government,19732.44,68
+INV_1471,2024-07-22,Financial Advisory,APAC,Enterprise,68745.76,42
+INV_1472,2025-02-27,Financial Advisory,North America,Enterprise,57858.53,67
+INV_1473,"Apr 14, 2024",RISK ADVISORY,APAC,SME,6697.11,80
+INV_1474,2025-12-05,AUDIT & ASSURANCE,LATAM,Government,33052.57,104
+INV_1475,2024-10-03,audit & assurance,LATAM,Enterprise,6031.92,106
+INV_1476,"Jul 08, 2025",tax advisory,LATAM,Enterprise,63203.02,109
+INV_1477,15/11/2024,RISK ADVISORY,APAC,SME,19186.67,33
+INV_1478,"Nov 02, 2025",Risk Advisory,EMEA,SME,44269.74,61
+INV_1479,"Oct 18, 2024",Financial Advisory,LATAM,Government,32555.16,47
+INV_1480,"Jul 13, 2025",Audit & Assurance,North America,SME,58984.41,57
+INV_1481,13/01/2025,financial advisory,APAC,SME,15063.99,80
+INV_1482,2024-03-26,financial advisory,LATAM,Government,22497.83,18
+INV_1483,"Feb 16, 2025",Risk Advisory,EMEA,Enterprise,58718.59,32
+INV_1484,25/02/2025,CONSULTING,LATAM,Enterprise,23770.14,26
+INV_1485,29/07/2025,Financial Advisory,EMEA,SME,37296.04,61
+INV_1486,"Jun 10, 2025",Audit & Assurance,North America,SME,13909.77,1
+INV_1487,"Jun 14, 2024",audit & assurance,LATAM,Enterprise,7734.34,54
+INV_1488,2025-05-22,Financial Advisory,LATAM,SME,5648.1,15
+INV_1489,21/03/2025,Consulting,APAC,Government,50515.45,18
+INV_1490,"Oct 24, 2024",Tax Advisory,APAC,Government,47316.24,60
+INV_1491,2025-04-18,Consulting,EMEA,Enterprise,41706.49,106
+INV_1492,2025-04-30,CONSULTING,North America,Enterprise,26828.84,24
+INV_1493,"Jul 23, 2024",Audit & Assurance,North America,Government,37808.59,20
+INV_1494,09/03/2024,Financial Advisory,North America,Enterprise,24220.64,105
+INV_1495,"Mar 12, 2025",Consulting,APAC,Government,42871.19,84
+INV_1496,2024-07-26,financial advisory,EMEA,SME,17482.77,72
+INV_1497,2024-04-14,Financial Advisory,APAC,Government,59038.51,75
+INV_1498,11/09/2025,Financial Advisory,EMEA,Enterprise,59835.54,27
+INV_1499,"Apr 03, 2024",tax advisory,LATAM,Enterprise,27633.65,114
+INV_1500,2024-02-23,Financial Advisory,LATAM,SME,26179.08,97

@@ -1,0 +1,13 @@
+region_name,customer_type,total_revenue,avg_days_outstanding
+EMEA,Government,5694952.36,52.5
+North America,Enterprise,5623379.8,59.8
+North America,Government,5305081.26,54.5
+APAC,Enterprise,5251742.41,53.7
+LATAM,Government,4964186.59,57.4
+LATAM,SME,4933125.71,61.1
+LATAM,Enterprise,4931225.2,62.0
+EMEA,SME,4834796.14,57.9
+APAC,SME,4801269.55,53.1
+North America,SME,4510618.67,58.8
+EMEA,Enterprise,4430614.86,58.1
+APAC,Government,4399441.55,59.9
